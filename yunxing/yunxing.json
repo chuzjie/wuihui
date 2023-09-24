@@ -1,34 +1,31 @@
-//花生日记
-
 {
 
 "spider":"./lib/1694435460.txt",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
-"warningText": "公众号【花生疾风】",
+"warningText": "公众号💞【花生疾风】💞",
 "wallpaper":"http://maoyingshi.cc/api.php",
 
   
   
 "sites":[
-{"key": "js豆瓣","name": "🐼豆瓣推荐 |","type": 3,"api":"./lib/apiv43drpy2.min.js","ext": "./lib/douban.js"},
-{"key":"csp_77","name":"👒七七App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "js豆瓣","name": "🏵️豆瓣推荐 |","type": 3,"api":"./lib/apiv43drpy2.min.js","ext": "./lib/douban.js"},
+{"key":"csp_77","name":"🌭🐉七七App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "荐片","name": "💁🏻‍♂️荐片磁力","type": 3,"playerType":1,"api": "./lib/apiv43drpy2.min.js","ext": "./lib/荐片.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"直播转点播1","name":"📡电视直播","type": 3,"api":"./lib/apiv107直播转点播.js","ext":"./lib/直播.txt"},
 {"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"},
 {"key":"csp_KubaCL","name":"🧲酷吧电影(磁)","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"},
 {
          "key": "csp_appys_如意4K",
-         "name": "🪄如意4K影视",
+         "name": "💦如意4K影视",
          "type": 3,
          "api": "csp_AppYsV2",
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 1,
          "ext": "http://cms.maoyingshi.cc/api.php/app/"
-      // "4k解析" = 前往 api.maoyingshi.cc 进行自助购买
-      //1080免费提供
+
        },
 {"key":"恐怖世界","name":"💟恐怖世界","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"链接":"/vodplay/+/voddetail/&&.html+-1-1.html","播放数组":"<ul class=\"content_playlist list_scroll clearfix\">&&</ul>","播放标题":">&&</a>","播放列表":"<li&&/li>","播放链接":"href=\"&&\"","分类": "恐怖片$1#恐怖电视剧$2#恐怖动漫$21","分类url":"https://www.840f.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;mal"}},   
 {"key": "贱贱","name": "🐭贱贱p2p","type": 3,"playerType": "1","api": "./lib/apiv261drpy1.min.js","ext": "./lib/jp.js"},
