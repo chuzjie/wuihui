@@ -33,18 +33,27 @@
             "ext": "./json/石榴.json"
         },
 
-         {
-            "key": "探探",
-            "name": "🤠疾风┃探探4k",
+{
+      "key": "T4_荐片",
+      "name": "🐰花生疾风/荐片",
+      "type": 4,
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "api": "http://home.jundie.top:9520/spider/csp_JP"
+    },
+             
+       {
+            "key": "南瓜",
+            "name": "🏵️南瓜┃APP",
             "type": 3,
-            "playerType": "1",
-            "api": "csp_YTVIP",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "vip.lyyytv.cn"
+            "api": "./drpy2.min.js",
+            "ext": "./js/南瓜.js",
+            "changeable": 0
         },
-        {
+  {
             "key": "爱迪",
             "name": "💃疾风┃外剧",
             "type": 3,
@@ -66,26 +75,17 @@
 			"ext": "https://www.6080yy3.com"
 		},
         
-        {
-            "key": "csp_77",
-            "name": "7⃣️疾风┃七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "🎈疾风┃厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "https://cz01.me/",
-            "filterable": 1
-        },
+       {
+      "key": "csp_360",
+      "name": "🌴疾风/🍳360",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox.top/360.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+        
         {
             "key": "csp_Nmys",
             "name": "🔥疾风┃极速",
@@ -98,7 +98,18 @@
         },
       
   
-        {
+      {
+        
+            "key": "dr_88看球",
+            "name": "⚽球赛┃体育",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./js/88看球.js"
+        },
+  {
             "key": "360",
             "name": "360┃BPQ",
             "type": 3,
@@ -202,7 +213,19 @@
             "filterable": 1,
             "ext": "http://wushutvcms.byzz.top/api.php/app/"
         },
-        {
+       {
+            "key": "探探",
+            "name": "🤠疾风┃探探4k",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YTVIP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "vip.lyyytv.cn"
+        },
+
+ {
             "key": "蘑菇2",
             "name": "️蘑菇┃APP",
             "type": 3,
@@ -224,7 +247,19 @@
             "filterable": 1,
             "ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"
         },
-        {
+      {
+            "key": "csp_Czsapp",
+            "name": "🎈疾风┃厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://cz01.me/",
+            "filterable": 1
+        },
+
+.  {
             "key": "365",
             "name": "年年┃APP",
             "type": 3,
@@ -672,15 +707,14 @@
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }
         },
-        {
-            "key": "南瓜",
-            "name": "🏵️南瓜┃APP",
+       {
+            "key": "csp_77",
+            "name": "7⃣️疾风┃七七",
             "type": 3,
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./drpy2.min.js",
-            "ext": "./js/南瓜.js",
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "YiSo",
@@ -749,7 +783,7 @@
 
 		{
 			"key": "速映",
-			"name": "🐢速映┃BPQ",
+			"name": "速映┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
@@ -870,17 +904,7 @@
 				"分类url": "http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html"
 			}
 		},
-        {
         
-            "key": "dr_88看球",
-            "name": "⚽球赛┃体育",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/88看球.js"
-        },
         
         {
             "key": "稻香",
