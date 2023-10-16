@@ -75,16 +75,16 @@
 			"ext": "https://www.6080yy3.com"
 		},
         
-       {
-      "key": "csp_360",
-      "name": "🌴疾风/🍳360",
-      "type": 1,
+               
+        {
+      "key": "apv2_梦梦",
+      "name": "✨花生┃影视┃测试",
+      "type": 3,
       "playerType": 2,
-      "api": "http://tvbox.top/360.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },  
+      "api": "csp_AppYsV2",
+      "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
         
         {
             "key": "csp_Nmys",
