@@ -1,6 +1,6 @@
 {
-    "spider": "./spider.jar",
-    "wallpaper": "http://xhww.fun:63/img.php",
+      "spider": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+	"wallpaper": "http://xhww.fun:63/img.php",
     "sites": [
         {
             "key": "豆豆",
