@@ -187,39 +187,15 @@
         },
     
 
- {
-            "key": "蘑菇2",
-            "name": "️蘑菇┃APP",
+                  {
+            "key": "儿童",
+            "name": "📚┃少儿┃教育",
             "type": 3,
-            "api": "csp_AppYs",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://11111111.moguys.xyz/api.php/app/"
-        },
-        {
-            "key": "落落",
-            "name": "️落落┃APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "jar": "./jars/csp_AList_Alist.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"
-        },
-    
- {
-            "key": "365",
-            "name": "年年┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jars/365.jar",
-            "ext": "http://guan.yy365.vip/api.php/app/"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"
         },
         {
             "key": "素白",
