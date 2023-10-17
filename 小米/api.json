@@ -176,16 +176,14 @@
             "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
 
-        {
-            "key": "蚂蚁",
-            "name": "️蚂蚁┃APP",
+                      {
+            "key": "Kuaikan",
+            "name": "👀┃快看┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://wushutvcms.byzz.top/api.php/app/"
+            "filterable": 1
         },
     
 
