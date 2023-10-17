@@ -128,12 +128,14 @@
             "filterable": 1
         }, 
 {
-            "key": "360",
-            "name": "360┃BPQ",
+            "key": "csp_XBiuCOKEMV",
+            "name": "🔥┃疾风┃可乐|蓝光",
             "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/csp_AList_Alist.jar",
-            "ext": "./json/360.json"
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
  
         {
