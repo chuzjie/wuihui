@@ -977,6 +977,18 @@
             "type": 3,
             "url": "Web"
         },
+
+
+            {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
         {
             "name": "💦小米🌾",
             "type": 1,
