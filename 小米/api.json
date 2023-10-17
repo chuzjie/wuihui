@@ -184,7 +184,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    
+    {
+            "key": "YQK_spider",
+            "name": "🌲疾风┃一起",
+            "api": "csp_YQKAPP",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://hk-api-cf.yqk5659.com"
+        },
 
                   {
             "key": "儿童",
@@ -251,17 +261,7 @@
             "playerType": "1",
             "ext": "./json/蘑菇.json"
         },
-        {
-            "key": "YQK_spider",
-            "name": "一起┃APP",
-            "api": "csp_YQKAPP",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://hk-api-cf.yqk5659.com"
-        },
+        
         {
             "key": "龟龟",
             "name": "龟龟┃BPQ",
