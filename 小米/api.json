@@ -54,7 +54,7 @@
              
        {
             "key": "南瓜",
-            "name": "🏵️南瓜┃APP",
+            "name": "🏵️疾风┃南瓜",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -75,7 +75,7 @@
     
         {
 			"key": "Xinsj",
-			"name": "🐳疾风┃视觉直连",
+			"name": "🐳疾风┃视觉",
 			"type": 3,
 			"api": "csp_Xinsj",
 			"searchable": 1,
@@ -118,7 +118,16 @@
             "filterable": 0,
             "ext": "./js/88看球.js"
         },
-  {
+ {
+            "key": "csp_Ying",
+            "name": "🌸┃疾风┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+{
             "key": "360",
             "name": "360┃BPQ",
             "type": 3,
