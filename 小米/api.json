@@ -166,16 +166,16 @@
       
         
         {
-            "key": "瑞丰",
-            "name": "🗯辣辣┃APP",
+            "key": "鸭鸭",
+            "name": "🦆┃鸭鸭┃影视",
             "type": 3,
-            "api": "csp_AppYs",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v2/"
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
+
         {
             "key": "蚂蚁",
             "name": "️蚂蚁┃APP",
