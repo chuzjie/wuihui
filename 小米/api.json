@@ -1,5 +1,10 @@
 {
       "spider": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+
+
+      "spider":"./XBiubiuLA4.jar",
+
+
 	"wallpaper": "http://xhww.fun:63/img.php",
     "sites": [
         {
@@ -99,6 +104,7 @@
 			"changeable": 1,
 			"ext": "https://www.6080yy3.com"
 		},
+                {"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/LIBVIO.json"},
         
                
         {
