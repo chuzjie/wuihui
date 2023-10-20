@@ -140,7 +140,7 @@
 			"quickSearch": 1
 		},
                
-       //{
+       {
       "key": "apv2_梦梦",
       "name": "✨花生┃影视┃测试",
       "type": 3,
@@ -148,7 +148,7 @@
       "api": "csp_AppYsV2",
       "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
       "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    }//
+    },
         
         {
             "key": "csp_Nmys",
