@@ -1142,7 +1142,20 @@
                 ]
             }
         },
-        {
+
+
+{
+			"name": "世界🥭",
+			"type": 1,
+			"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"mgtv",
+					"YuMi-vip"
+				]
+			}
+		},        {
             "name": "🌹玉米🥭",
             "type": 1,
             "url": "http://123.99.192.241:5000/api/jiexi/xg?Key=NLoNjn48GAF3UQdsP0&url=",
