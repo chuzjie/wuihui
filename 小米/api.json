@@ -72,7 +72,15 @@
     },
              
        
-
+        {
+            "key": "MGT",
+            "name": "🍋┃芒果┃官源",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 
   {
             "key": "爱迪",
