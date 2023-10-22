@@ -85,7 +85,18 @@
     },
              
        
-        
+      {
+      "key": "csp_Bttoo",
+      
+      "name": "🍄┃疾风┃比特",
+      
+       "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
   {
             "key": "爱迪",
