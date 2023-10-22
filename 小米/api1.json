@@ -40,6 +40,28 @@
     },
     
     
+            {
+      "key": "探探",
+      "name": "🏄┃影探┃4K",
+      "type": 3,
+      "playerType": "1",
+      "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+
+        {
+      "key": "Qtv",
+      "name": "🐧┃企鹅┃官源",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
             "key": "南瓜",
             "name": "🏵️疾风┃南瓜",
