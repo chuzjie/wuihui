@@ -50,28 +50,7 @@
       "quickSearch": 1,
       "filterable": 1
     },  
-        {
-            "key": "app_轻简",
-            "name": "🚈┃轻简┃影视",
-            "type": 1,
-            "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-            "categories": [
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-                {
-            "key": "csp_yayaya",
-            "name": "👧┃耐菲┃影视",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-        },
+        
             {
       "key": "橘子",
       "name": "🍊橘子┃4K",
