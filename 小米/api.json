@@ -74,9 +74,12 @@
     },
 
 
- 
+{"key":"一起看 ","name":"🎉疾风┃一起看速度快","type":3,   
+    "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7", 
+
+  "api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}, 
   
-        { "key": "YQK_spider",  "name": "🌲疾风┃一起推荐",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
+        { "key": "YQK_spider",  "name": "🌲疾风┃推荐",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
   
 
 
