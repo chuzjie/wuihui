@@ -37,17 +37,7 @@
       "changeable": 1,
       "ext": "https://www.czz9.com/"
     },
-{
-      "key": "橘子",
-      "name": "",
-      "type": 3,
-      "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
-    },
+
         {
             "key": "csp_WoGG",
             "name": "👽疾风┃玩偶4k",
@@ -84,10 +74,7 @@
     },
 
 
-  {"key":"一起看 ","name":"🎉疾风┃秒看速度快","type":3,   
-    "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7", 
-
-  "api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+ {"key": "火狐","name": "🦊疾风/火狐❣️","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},   
   
         { "key": "YQK_spider",  "name": "🌲疾风┃一起推荐",  "api": "csp_YQKAPP", "type": 3,
         "jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
@@ -155,21 +142,21 @@
       "searchable": 1,
       "changeable": 1,
       "playerType": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_JP"
+      "api":"http://home.jundie.top:9520/spider/csp_JP"
     },
              
        
       
 
   {
-            "key": "爱迪",
+        "key": "爱迪",
             "name": "💃疾风┃外剧",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
+            "ext":"https://api123.adys.app/xgapp.php/v3/"
         },
     
         {
@@ -191,7 +178,7 @@
       "playerType": 2,
       "api": "csp_AppYsV2",
       "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+      "ext":"http://iosa.xn--654a.cc/api.php/app/"
     },
         
         {
