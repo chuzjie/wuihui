@@ -15,7 +15,17 @@
             "quickSearch": 0,
             "filterable": 0
         },
-     
+     {
+            "key": "素白",
+            "name": "🔴提示┃❌不要相信任何广告",
+            "type": 3,
+            "jar": "./jars/csp_AList_Alist.jar",
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "./json/素白.json"
+        },
+
+
         {
             "key": "csp_WoGG",
             "name": "👽疾风┃玩偶4k",
@@ -307,15 +317,7 @@
             "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
         },      
 
-  {
-            "key": "素白",
-            "name": "素白┃BPQ",
-            "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "./json/素白.json"
-        },
+  
         {
             "key": "蘑菇",
             "name": "蘑菇┃BPQ",
