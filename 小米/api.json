@@ -1,12 +1,9 @@
-
 {
       "spider": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
-
-
-      "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-         "sites": [ 
+      "sites": [ 
          { 
              "key": "豆豆", 
              "name": "💞公众号花生疾风丨豆瓣主页", 
