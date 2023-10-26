@@ -65,7 +65,7 @@
     },
                   {
       "key": "js_6V",
-      "name": "🛑┃疾风┃六维4K",
+      "name": "🛸┃疾风┃六维4K",
       "type": 3,
      "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
       "api": "./drpy2.min.js",
@@ -91,12 +91,12 @@
 
 
 
-{"key":"一起看 ","name":"❤️┃疾风┃一起看速度快","type":3,   
+{"key":"一起看 ","name":"🌺┃疾风┃起看","type":3,   
     "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7", 
 
   "api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}, 
   
-        { "key": "YQK_spider",  "name": "💚┃疾风┃推荐",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
+        { "key": "YQK_spider",  "name": "🌳┃疾风┃一起",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
   
 
 
@@ -123,7 +123,7 @@
         },
 {
       "key": "T4_荐片",
-      "name": "🐰┃花生疾风/荐片",
+      "name": "🇨🇳┃疾风┃荐片",
       "type": 4,
       "searchable": 1,
       "changeable": 1,
@@ -208,7 +208,7 @@
  
         {
             "key": "csp_DiDuan",
-            "name": "🦋低端🦋┃外剧",
+            "name": "🦋┃低端┃外剧",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -240,7 +240,7 @@
     {
         
             "key": "dr_88看球",
-            "name": "⚽球赛┃体育",
+            "name": "⚽┃球赛┃体育",
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
@@ -258,20 +258,20 @@
             "filterable": 1
         }, 
 
-{"key":"暴风资源","name":"🎀暴风┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},{"key":"量子","name":"🎀量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
-{"key":"非凡","name":"🎀非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
-{"key":"影图资源","name":"🎀影图┃切片","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"红牛资源","name":"🎀红牛┃采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
-{"key":"快车资源","name":"🎀快车┃采集","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","战争片","动作片","香港剧"]},
-{"key":"卧龙资源","name":"🎀卧龙┃采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
-{"key":"闪电资源","name":"🎀闪电┃采集","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xml_享看","name":"🎀享看┃采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"},
+{"key":"暴风资源","name":"🎀┃暴风┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},{"key":"量子","name":"🎀┃量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
+{"key":"非凡","name":"🎀┃非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key":"影图资源","name":"🎀┃影图┃切片","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"红牛资源","name":"🎀┃红牛┃采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
+{"key":"快车资源","name":"🎀┃快车┃采集","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","战争片","动作片","香港剧"]},
+{"key":"卧龙资源","name":"🎀┃卧龙┃采集","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
+{"key":"闪电资源","name":"🎀┃闪电┃采集","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xml_享看","name":"🎀┃享看┃采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"},
 {"key":"小姨","name":"🎀玩偶姨妹┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},	
 
 
 	{
 			"key": "毛驴",
-			"name": "🐴疾风┃毛驴App",
+			"name": "🐴┃疾风┃毛驴App",
 			"type": 3,
 		   "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
 			"api": "csp_MLYS",
@@ -281,7 +281,7 @@
 			"ext": "https://www.maolvys.com/"
 		},   
 
-{  "key": "酷影",   "name": "❤️疾风┃影4APP",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"    }, 
+{  "key": "酷影",   "name": "❤️┃疾风┃极影",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"    }, 
                {
             "key": "儿童",
             "name": "📚┃少儿┃教育",
