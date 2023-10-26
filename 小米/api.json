@@ -41,7 +41,7 @@
 
         {
             "key": "csp_WoGG",
-            "name": "👽疾风┃玩偶4k",
+            "name": "👽┃疾风┃玩偶4k",
             "type": 3,
             "api": "csp_WoGG",
             "changeable": 0,
@@ -53,7 +53,7 @@
 
     {
       "key": "csp_XBPQ_6V",
-      "name": "🚀花生┃疾风4k",
+      "name": "🥜┃花生┃疾风4k",
       
       
       "type": 3,
@@ -65,7 +65,7 @@
     },
                   {
       "key": "js_6V",
-      "name": "❇️┃疾风┃六维4K",
+      "name": "🛑┃疾风┃六维4K",
       "type": 3,
      "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
       "api": "./drpy2.min.js",
@@ -77,7 +77,7 @@
       
 {
       "key": "探探",
-      "name": "🌐┃疾风┃影探4K",
+      "name": "🤠┃疾风┃影探4K",
       "type": 3,
       "playerType": "1",
       "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
@@ -91,18 +91,18 @@
 
 
 
-{"key":"一起看 ","name":"🎉疾风┃一起看速度快","type":3,   
+{"key":"一起看 ","name":"❤️┃疾风┃一起看速度快","type":3,   
     "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7", 
 
   "api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}, 
   
-        { "key": "YQK_spider",  "name": "🌲疾风┃推荐",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
+        { "key": "YQK_spider",  "name": "💚┃疾风┃推荐",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
   
 
 
 {
             "key": "南瓜",
-            "name": "🏵️疾风┃南瓜推荐",
+            "name": "🏵️┃疾风┃南瓜",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -113,7 +113,7 @@
 
   {
             "key": "csp_Nmys",
-            "name": "🔥疾风┃极速推荐",
+            "name": "🔥┃疾风┃极速",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -123,7 +123,7 @@
         },
 {
       "key": "T4_荐片",
-      "name": "🐰花生疾风/荐片",
+      "name": "🐰┃花生疾风/荐片",
       "type": 4,
       "searchable": 1,
       "changeable": 1,
@@ -135,7 +135,7 @@
         
  {
             "key": "csp_Ysgc",
-            "name": "🎥┃疾风影视┃工厂",
+            "name": "🎥┃疾风┃影工",
             "type": 3,
             "api": "csp_Ysgc",
             "searchable": 1,
@@ -147,7 +147,7 @@
               
   {
             "key": "石榴",
-            "name": "💞疾风┃石榴",
+            "name": "💞┃疾风┃石榴",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -160,7 +160,7 @@
 
   {
         "key": "爱迪",
-            "name": "💃疾风┃外剧",
+            "name": "💃┃疾风┃外剧",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -171,7 +171,7 @@
     
         {
 			"key": "Xinsj",
-			"name": "🐳疾风┃视觉",
+			"name": "🐳┃疾风┃视觉",
 			"type": 3,
 			"api": "csp_Xinsj",
 			"searchable": 1,
@@ -183,7 +183,7 @@
                
        {
       "key": "apv2_梦梦",
-      "name": "✨花生┃影视┃测试",
+      "name": "✨┃疾风┃梦梦",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -197,7 +197,7 @@
       
 {
             "key": "csp_XBiuCOKEMV",
-            "name": "🔥┃疾风┃可乐|蓝光",
+            "name": "🔥┃疾风┃蓝光",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
