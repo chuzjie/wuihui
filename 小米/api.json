@@ -16,19 +16,19 @@
              "quickSearch": 0, 
              "filterable": 0 
          }, 
-     {
-            "key": "豆豆",
-            "name": "🔴提示┃❌不要相信任何广告",
-            "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "./json/素白.json"
-        },
+     {"key":"drpy_js_榜单荐片","name":"🔴提示┃❌不要相信任何广告",
+"type":3,             "api": "csp_DouDou", 
+             "searchable": 0, 
+             "quickSearch": 0, 
+             "filterable": 0 },
 
+{"key":"drpy_js_榜单荐片1","name":"📢线路不能观看就换其它线路看","type":3,             "api": "csp_DouDou", 
+             "searchable": 0, 
+             "quickSearch": 0, 
+             "filterable": 0 },
 {
       "key": "Czsapp",
-      "name": "💦线路不能观看就换其它线路看",
+      "name": "🌹观看玩偶手机下载阿里云盘",
       "type": 3,
       "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_Czsapp",
