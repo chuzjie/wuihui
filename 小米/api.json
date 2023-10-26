@@ -7,22 +7,22 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
            "sites": [ 
-         { 
+                  { 
              "key": "豆豆", 
-             "name": "💞花生日记注册码KKHH88/疾风推荐", 
+             "name": "💞花生日记app注册码KKHH88/疾风推荐", 
              "type": 3, 
              "api": "csp_DouDou", 
              "searchable": 0, 
              "quickSearch": 0, 
              "filterable": 0 
          }, 
-     {"key":"drpy_js_榜单荐片","name":"🔴提示┃❌不要相信任何广告",
+{"key":"drpy_js_榜单荐片","name":"🔴提示┃影视源来源网络❌不要相信任何广告",
 "type":3,             "api": "csp_DouDou", 
              "searchable": 0, 
              "quickSearch": 0, 
              "filterable": 0 },
 
-{"key":"drpy_js_榜单荐片1","name":"📢线路不能观看就换其它线路看","type":3,             "api": "csp_DouDou", 
+{"key":"drpy_js_榜单荐片1","name":"📢线路不能观看就换其它线路看🌸关注公众号:花生疾风","type":3,             "api": "csp_DouDou", 
              "searchable": 0, 
              "quickSearch": 0, 
              "filterable": 0 },
