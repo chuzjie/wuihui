@@ -267,7 +267,22 @@
 {"key":"闪电资源","name":"🎀闪电┃采集","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xml_享看","name":"🎀享看┃采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://xkanzy10.com/api.php/provide/vod"},
 {"key":"小姨","name":"🎀玩偶姨妹┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},	
-                  {
+
+
+	{
+			"key": "毛驴",
+			"name": "🐴疾风┃毛驴App",
+			"type": 3,
+		   "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+			"api": "csp_MLYS",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.maolvys.com/"
+		},   
+
+{  "key": "酷影",   "name": "❤️疾风┃影4APP",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"    }, 
+               {
             "key": "儿童",
             "name": "📚┃少儿┃教育",
             "type": 3,
@@ -911,17 +926,9 @@
             "filterable": 1,
             "ext": "https://www.gvideo.me/api.php/app/"
         },
-        {
-            "key": "酷影",
-            "name": "泰泰┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "jar": "./jars/csp_AList_Alist.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-        },
+                 
+
+
         {
             "key": "磁力3",
             "name": "迅雷┃BPQ",
