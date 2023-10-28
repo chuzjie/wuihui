@@ -160,16 +160,16 @@
                          
                
        {
-      "key": "apv2_梦梦",
-      "name": "✨┃疾风┃梦梦",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-  "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
-"quickSearch": 1,
-            "filterable": 1,
-      "ext":"http://iosa.xn--654a.cc/api.php/app/"
-    },
+			"key": "世界",
+			"name": "🐳┃世界┃聚合",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "./ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
+			"ext": "http://106.52.241.21:83/api.php/app/"
+		},
         
         
       
