@@ -63,11 +63,11 @@
       "filterable": 1,
       "ext": "./json/jifeng.json"
     },
-                  {
+                                              {
       "key": "js_6V",
-      "name": "🛸┃疾风┃六维4K",
+      "name": "✡️┃疾风六维┃4K",
       "type": 3,
-     "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+     "jar": "/2.jar",
       "api": "./drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -76,16 +76,14 @@
     },
       
 
-         {  "key": "酷影",   "name": "❤️疾风┃酷影┃4k",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"    },      
+         { 
+ "key": "酷影",   "name": "❤️疾风┃酷影┃4k",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"   
+ },      
 
 
 
 
-{"key":"一起看 ","name":"🌺┃疾风┃起看","type":3,   
-    "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7", 
 
-  "api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}, 
-  
         { "key": "YQK_spider",  "name": "🌳┃疾风┃一起",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
   
 
