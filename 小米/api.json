@@ -75,18 +75,8 @@
       "ext": "./js/x6v.js"
     },
       
-{
-      "key": "探探",
-      "name": "🤠┃疾风┃影探4K",
-      "type": 3,
-      "playerType": "1",
-      "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "vip.lyyytv.cn"
-    },
+
+{  "key": "酷影",   "name": "❤️┃疾风┃极影4k",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"    },       
 
 
 
@@ -281,7 +271,7 @@
 			"ext": "https://www.maolvys.com/"
 		},   
 
-{  "key": "酷影",   "name": "❤️┃疾风┃极影",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"    }, 
+
                {
             "key": "儿童",
             "name": "📚┃少儿┃教育",
