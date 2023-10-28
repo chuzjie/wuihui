@@ -63,21 +63,11 @@
       "filterable": 1,
       "ext": "./json/jifeng.json"
     },
-                                              {
-      "key": "js_6V",
-      "name": "✡️┃疾风六维┃4K",
-      "type": 3,
-     "jar": "/2.jar",
-      "api": "./drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/x6v.js"
-    },
+                                              
       
 
          { 
- "key": "酷影",   "name": "❤️疾风┃酷影┃4k",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"   
+ "key": "酷影",   "name": "❤️┃疾风┃酷影4k",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"   
  },      
 
 
@@ -175,7 +165,9 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
-      "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
+  
+"quickSearch": 1,
+            "filterable": 1,
       "ext":"http://iosa.xn--654a.cc/api.php/app/"
     },
         
