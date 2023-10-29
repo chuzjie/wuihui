@@ -66,19 +66,7 @@
                                               
       
 
-         { 
- "key": "酷影",   "name": "❤️┃疾风┃酷影4k",   "type": 3,   "api": "csp_AppYsV2",    "jar": "./2.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",   "searchable": 1,    "quickSearch": 1,   "filterable": 1,  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"   
- },      
-
-
-
-
-
-        { "key": "YQK_spider",  "name": "🌳┃疾风┃一起",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
-  
-
-
-{
+         {
             "key": "南瓜",
             "name": "🏵️┃疾风┃南瓜",
             "type": 3,
@@ -88,6 +76,16 @@
             "ext": "./js/南瓜.js",
             "changeable": 0
         },
+
+
+
+
+
+        { "key": "YQK_spider",  "name": "🌳┃疾风┃一起",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
+  
+
+
+
 
   {
             "key": "csp_Nmys",
