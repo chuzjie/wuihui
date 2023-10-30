@@ -3,8 +3,17 @@
 //公众号：💞花生疾风💞 花生疾风祝您发大财
 {
       "spider": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2l0dmJveC5jYy90dmJveC96aGliby8xLnR4dA=="]}]}],
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+    "lives": [
+        {
+            "name": "tvlive",
+            "type": 0,
+            "url": "./live2.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        ,
+                     "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+
 
            "sites": [ 
                   { 
@@ -123,14 +132,7 @@
             "ext": "https://www.ysgc.fun"
         },    
               
-  {
-            "key": "石榴",
-            "name": "💞┃疾风┃石榴",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "./json/石榴.json"
-        },
+//  {  "key": "石榴",  "name": "💞┃疾风┃石榴", "type": 3, "api": "csp_XBPQ", "playerType": "1",  "ext": "./json/石榴.json"  },
 
 
        
