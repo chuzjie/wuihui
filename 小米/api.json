@@ -79,6 +79,8 @@
 
 
 
+{"key":"农民影视","name":"♥️┃花生疾风┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nongmin.json"},
+
 
 
         { "key": "YQK_spider",  "name": "🌳┃疾风┃一起",  "api": "csp_YQKAPP", "type": 3,"jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8", "filterable": 1,  "playerType": 2,      "quickSearch": 1,    "searchable": 1,     "ext": "https://hk-api-cf.yqk5659.com"    },
