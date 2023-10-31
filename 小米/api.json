@@ -293,21 +293,25 @@
 
 //阿里
 
-//{"key": "csp_KungFu4041","name": "🐲️阿里｜4k有效","type": 3,"jar":"./lib/jar.php;md5;89344c61eb48e87c06678805ad697464","api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0},
-{"key":"Gitcafe","name":"❤️阿里｜纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-{"key":"csp_Zhaozy","name":"❤️阿里｜找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-{"key":"csp_AliPS","name":"❤️阿里｜喵狸","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-{"key":"csp_Yisou","name":"❤️阿里｜易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-{"key":"csp_Upyunso","name":"❤️阿里｜up搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-{"key": "csp_XYQHikerAL_玩偶哥哥","name":"❤️阿里｜玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶哥哥.json"},
+//{"key": "csp_KungFu4041","name": "🐲️阿里｜4k有效","type": 3,
+
+"jar":"./lib/jar.php;md5;89344c61eb48e87c06678805ad697464",
+"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0},
+
+
+{"key":"Gitcafe","name":"❤️阿里｜纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvboxqq/tok.txt"},
+{"key":"csp_Zhaozy","name":"❤️阿里｜找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/tok.txt"},
+{"key":"csp_AliPS","name":"❤️阿里｜喵狸","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/tok.txt"},
+
+
 {"key": "csp_XYQHikerAL_云盘资源","name":"❤️阿里｜云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/云盘资源分享.json"},
 {"key": "csp_XYQHikerAL_我的小站","name":"❤️阿里｜小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/我的小站.json"},
 {"key": "csp_XYQHikerAL_阿里云盘网","name":"❤️阿里｜阿盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/阿里云盘.json"},
 {"key": "csp_XYQHikerAL_豆豆飞","name":"❤️阿里｜豆豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/豆豆.json"},
 {"key": "csp_XYQHiker_土拨鼠搜索","name":"❤️阿里｜土拨","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/土拨鼠搜.json"},
 //{"key": "csp_XYQHiker_DOVX搜索","name":"❤️阿里｜DOVX","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/DOVX搜.json"},
-{"key": "csp_XYQHiker_盘搜索","name":"❤️阿里｜盘搜","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/盘搜.json"},
-{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
+
+{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/tok.txt"},
 {
             "key": "dr_兔小贝",
             "name": "🙆儿童┃启蒙",
@@ -324,7 +328,7 @@
         },
         {
             "key": "七夜",
-            "name": "🏄‍♀️七夜┃搜索",
+            "name": "🚫七夜┃搜索",
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
