@@ -1106,9 +1106,9 @@
       "url": "Sequence"
     },  
 {
-      "name": "k影解析",
+      "name": "vip",
       "type": 1,
-      "url": "http://pandown.pro/app/lvdou.php?url\u003d",
+      "url": "https://www.qiaoji8.com/tvbox/json.php?url\u003d",
       "ext": {
         "flag": [
           "qq",
@@ -1118,6 +1118,7 @@
           "奇艺",
           "youku",
           "优酷",
+          "tucheng",
           "sohu",
           "搜狐",
           "letv",
@@ -1132,14 +1133,14 @@
           "bilibili",
           "1905",
           "xinvip",
-          "FYNB",
           "XAL",
           "qiqi",
-          "XALS"
+          "XALS",
+          "YuMi-vip"
         ]
       }
-    
-     },
+    },
+      
       
         
        {
