@@ -78,20 +78,12 @@
               "searchable": 0,  
               "quickSearch": 0,  
               "filterable": 0 }, 
-         {
-      "key": "t4_wo",
-      "name": "♻️疾风┃云盘┃直连",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort\u003d原画,蓝光,超清,高清\u0026token\u003d94fd5ab297e24a769bb762375118ec47",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+          { "key": "南瓜1", "name": "♻️花生┃南瓜┃极速","jar": "./fix1101.jar;md5;303b33bfe922a547f995e0aa46611b43", "type": 3,  "type": 3, "api": "csp_NanGua",  "searchable": 1,   "quickSearch": 1,   "playerType": 2,     "filterable": 1,    "ext": ""  },
   
                { 
-             "key": "南瓜", 
-             "name": "💞花生┃南瓜┃App", 
+             "key": "南瓜2", 
+             "name": "💞花生┃南瓜┃稳定", 
              "type": 3, 
              "searchable": 1, 
              "quickSearch": 1, 
