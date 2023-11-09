@@ -93,10 +93,27 @@
          }, 
   
   
-    
+    { 
+             "key": "csp_Nmys", 
+             "name": "💞花生┃疾风┃秒速", 
+             "type": 3, 
+             "api": "csp_Nmys", 
+             "searchable": 1, 
+             "quickSearch": 1, 
+             "changeable": 1, 
+             "ext": "./json/nmys.json" 
+         }, 
 
-          
-    
+      { 
+                         "key": "Xinsj", 
+                         "name": "🐳花生┃视觉┃极速", 
+                         "type": 3, 
+                         "api": "csp_Xinsj", 
+                         "searchable": 1, 
+                         "quickSearch": 1, 
+                         "changeable": 1, 
+                         "ext": "https://www.6080yy3.com" 
+                 }, 
   
   
   {
@@ -122,16 +139,7 @@
   
  //{"key":"农民影视1","name":"💞花生┃疾风┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nongmin.json"}, 
   
-     { 
-             "key": "csp_Nmys", 
-             "name": "💞花生┃疾风┃App", 
-             "type": 3, 
-             "api": "csp_Nmys", 
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "changeable": 1, 
-             "ext": "./json/nmys.json" 
-         }, 
+     
   
   
 
@@ -274,16 +282,7 @@
              "ext":"https://api123.adys.app/xgapp.php/v3/" 
          }, 
   
-         { 
-                         "key": "Xinsj", 
-                         "name": "🐳┃疾风┃视觉", 
-                         "type": 3, 
-                         "api": "csp_Xinsj", 
-                         "searchable": 1, 
-                         "quickSearch": 1, 
-                         "changeable": 1, 
-                         "ext": "https://www.6080yy3.com" 
-                 }, 
+      
   
   
   
