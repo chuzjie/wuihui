@@ -91,8 +91,13 @@
              "ext": "./js/南瓜.js", 
              "changeable": 0 
          }, 
+  {"key":"csp_乐猪","name":"🎉┃疾风影视|T追剧",
+     "jar": "./henit.jar",
+"type":3,"api":"csp_xBPQ",
+"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪影视.json"},
   
-  
+
+
     { 
              "key": "csp_Nmys", 
              "name": "💞花生┃疾风┃秒速", 
@@ -170,16 +175,7 @@
     },
   
   
-   { 
-             "key": "csp_XBiuCOKEMV", 
-             "name": "💛疾风┃蓝光┃畅享", 
-             "type": 3, 
-             "api": "csp_Cokemv", 
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "filterable": 1, 
-             "playerType": 2 
-         }, 
+   
   
   
   { 
@@ -237,10 +233,7 @@
       ]
    
     }, 
-   {"key":"csp_乐猪","name":"🎉┃疾风影视|T追剧",
-     "jar": "./henit.jar",
-"type":3,"api":"csp_xBPQ",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪影视.json"},
+   
  
 
  { 
