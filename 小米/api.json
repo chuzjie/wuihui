@@ -396,19 +396,7 @@
              "changeable": 0, 
              "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto" 
          },  
-           { "key": "dr_兔小贝", 
-             "name": "🙆儿童┃启蒙", 
-             "type": 3, 
-             "style": { 
-                 "type": "rect", 
-                 "ratio": 1.597 
-             }, 
-             "api": "./drpy1.min.js", 
-             "ext": "./js/兔小贝.js", 
-             "searchable": 0, 
-             "quickSearch": 0, 
-             "changeable": 0 
-         }, 
+           
          { 
              "key": "七夜", 
              "name": "🎊七夜┃搜索", 
@@ -433,6 +421,20 @@
   
  {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/tok.txt"}, 
  
+
+{ "key": "dr_兔小贝", 
+             "name": "🙆儿童┃启蒙", 
+             "type": 3, 
+             "style": { 
+                 "type": "rect", 
+                 "ratio": 1.597 
+             }, 
+             "api": "./drpy1.min.js", 
+             "ext": "./js/兔小贝.js", 
+             "searchable": 0, 
+             "quickSearch": 0, 
+             "changeable": 0 
+         }, 
   
  { 
              "key": "儿童", 
@@ -1142,21 +1144,7 @@
       
       
         
-       {
-		"name": "官解1",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},{
-		"name": "官解2",
-		"type": 1,
-		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		} 
-    },
+       
 		
 	
 
