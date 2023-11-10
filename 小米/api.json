@@ -79,11 +79,11 @@
               "quickSearch": 0,  
               "filterable": 0 }, 
 
-          { "key": "南瓜1", "name": "♻️花生┃南瓜┃极速","jar": "./fix1101.jar;md5;303b33bfe922a547f995e0aa46611b43", "type": 3,  "type": 3, "api": "csp_NanGua",  "searchable": 1,   "quickSearch": 1,   "playerType": 2,     "filterable": 1,    "ext": ""  },
+          { "key": "南瓜1", "name": "♻️┃南瓜┃极速","jar": "./fix1101.jar;md5;303b33bfe922a547f995e0aa46611b43", "type": 3,  "type": 3, "api": "csp_NanGua",  "searchable": 1,   "quickSearch": 1,   "playerType": 2,     "filterable": 1,    "ext": ""  },
   
                { 
              "key": "南瓜2", 
-             "name": "💞花生┃南瓜┃稳定", 
+             "name": "💞┃南瓜┃稳定", 
              "type": 3, 
              "searchable": 1, 
              "quickSearch": 1, 
@@ -91,7 +91,7 @@
              "ext": "./js/南瓜.js", 
              "changeable": 0 
          }, 
-  {"key":"csp_乐猪","name":"🎉┃疾风影视|T追剧",
+  {"key":"csp_乐猪","name":"🎉┃乐猪|T追剧",
      "jar": "./henit.jar",
 "type":3,"api":"csp_xBPQ",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪影视.json"},
@@ -100,7 +100,7 @@
 
     { 
              "key": "csp_Nmys", 
-             "name": "💞花生┃疾风┃秒速", 
+             "name": "💞┃疾风┃秒速", 
              "type": 3, 
              "api": "csp_Nmys", 
              "searchable": 1, 
@@ -111,7 +111,7 @@
 
       { 
                          "key": "Xinsj", 
-                         "name": "🐳花生┃视觉┃极速", 
+                         "name": "🐳┃视觉┃极速", 
                          "type": 3, 
                          "api": "csp_Xinsj", 
                          "searchable": 1, 
@@ -120,10 +120,20 @@
                          "ext": "https://www.6080yy3.com" 
                  }, 
   
-  
+{
+      "key": "sc影视",
+      "name": "💞┃盛影┃稳定",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/盛城影视.json"
+    },  
+
   {
       "key": "csp_XBPQ_6V1",
-      "name": "💞疾风┃影剧┃4k",
+      "name": "💞┃影剧┃4k",
       
            "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "type": 3,
@@ -142,7 +152,7 @@
   
   
   
- //{"key":"农民影视1","name":"💞花生┃疾风┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nongmin.json"}, 
+ //{"key":"农民影视1","name":"💞┃疾风┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nongmin.json"}, 
   
      
   
@@ -151,7 +161,7 @@
     
     
      {"key": "csp_XBPQ_6V", 
-       "name": "💞疾风┃追剧┃4k", 
+       "name": "💞┃追剧┃4k", 
   
             "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
        "type": 3, 
@@ -163,7 +173,7 @@
      }, 
     {
       "key": "黑夜",
-           "name": "💛疾风┃黑夜┃App",
+           "name": "💛┃黑夜┃App",
       "jar": "./fix1101.jar;md5;303b33bfe922a547f995e0aa46611b43",  
       "type": 3,
       "api": "csp_DDMJ",
@@ -180,7 +190,7 @@
   
   { 
              "key": "Kuaikan", 
-             "name": "💛疾风┃快看┃影视", 
+             "name": "💛┃快看┃影视", 
              "type": 3, 
              "api": "csp_Kuaikan", 
              "searchable": 1, 
@@ -189,7 +199,7 @@
          }, 
           {
       "key": "49zy",
-      "name": "💛花生┃VIP┃1080P",
+      "name": "💛┃VIP┃1080P",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
