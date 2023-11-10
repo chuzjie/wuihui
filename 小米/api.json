@@ -79,7 +79,7 @@
               "quickSearch": 0,  
               "filterable": 0 }, 
 
-          { "key": "南瓜1", "name": "♻️┃南瓜┃极速","jar": "./fix1101.jar;md5;303b33bfe922a547f995e0aa46611b43", "type": 3,  "type": 3, "api": "csp_NanGua",  "searchable": 1,   "quickSearch": 1,   "playerType": 2,     "filterable": 1,    "ext": ""  },
+          
   
                { 
              "key": "南瓜2", 
