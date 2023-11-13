@@ -187,7 +187,8 @@
     },
   
   
-{"key":"csp_MGTV","name":"🥭┃芒果TV┃(SP)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"csp_MGTV","name":"🥭芒果TV(SP)","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
+,"type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},  
   
   
 
