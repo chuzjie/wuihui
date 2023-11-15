@@ -140,16 +140,18 @@
 "searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪影视.json"},
   
 
-    {
+        {
       "key": "csp_FreeOK",
-      "name": "💰️┃福瑞┃影视",
+      "name": "💰️福瑞影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/福瑞.json"
+          "ext": "https://jihulab.com/wuhui1/wuihui/-/raw/main/%E5%B0%8F%E7%B1%B3/json/%E7%A6%8F%E7%91%9E.json?ref_type=heads"
+     
     },
+    
     { 
              "key": "csp_Nmys", 
              "name": "💞┃疾风┃秒速", 
