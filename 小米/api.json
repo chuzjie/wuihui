@@ -125,7 +125,7 @@
   "jar": "https://jihulab.com/wuhui1/tvbox/-/raw/main/spider1.png;md5;83E07FBDF15CEB9D57201BFBFE5AD818",
 
        "type": 3,"api": "csp_AppMao"     ,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},   
-{"key":"csp_IQIYI","name":"💞┃奇艺┃测视频","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"csp_IQIYI","name":"💞┃奇艺┃视频","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},  
         
   
      {"key":"csp_MGTV","name":"🥭┃芒果┃TV(SP)","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
