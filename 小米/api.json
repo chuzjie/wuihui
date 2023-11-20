@@ -64,17 +64,15 @@
        "ext": "https://www.czz9.com/" 
      }, 
   
-         { 
-             "key": "csp_WoGG", 
-             "name": "👽┃玩偶4K┃专享", 
+     
+{"key":"玩偶","name":"玩偶｜云盘","type":3,
+//"jar":"./huasheng.jar",
 
-         "jar": "./jfm.jar",            "type": 3, 
-             "api": "csp_WoGG", 
-             "changeable": 0, 
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/" 
-         },    {
+ "jar": "https://jihulab.com/wuhui1/tvbox/-/raw/main/huasheng.jar",
+"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext": {"token":"http://127.0.0.1:9978/file/TVBoxqq/token.txt","filter": "https://jihulab.com/wuhui1/tvbox/-/raw/main/json/玩偶哥哥.json","danmu": false}},
+   // {  "key": "csp_WoGG",   "name": "👽┃玩偶4K┃专享",     "jar": "./jfm.jar",            "type": 3,    "api": "csp_WoGG",   "changeable": 0,   "searchable": 1,     "quickSearch": 1"ex"http://127.0.0.1:9978/file/tvboxqq/token. txt+4k|fhd|auto$$$http://tvfan.xxooo.cf     },   
+
+ {
       "key": "49zy",
       "name": "💞┃1080P┃专享",
       "type": 1,
