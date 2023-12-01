@@ -66,13 +66,16 @@
   
      
 
-   {  "key": "csp_WoGG",  
- "name": "👽┃玩偶┃阿里",   
-  "jar": "./jfm.jar",            "type": 3,   
- "api": "csp_WoGG",  
- "changeable": 0,   
-"searchable": 1,   
-  "quickSearch": 1,
+   {
+      "key": "csp_WoGG1",
+      "name": "🦊┃玩偶┃4K",
+      "jar": "https://jihulab.com/wuhui1/tvbox/-/raw/main/jfm.jar",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+auto|fhd|4k$$$https://wogg.xyz/"},
 
  {
