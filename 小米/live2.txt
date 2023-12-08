@@ -31,6 +31,21 @@
 ▶️┃央红,#genre#
 
 
+CCTV1,http://huangxin.quipor.cn:12999/hls/1/index.m3u8?url=tvzb.com
+CCTV2,http://huangxin.quipor.cn:12999/hls/2/index.m3u8?url=tvzb.com
+CCTV3,http://huangxin.quipor.cn:12999/hls/3/index.m3u8?url=tvzb.com
+CCTV4,http://huangxin.quipor.cn:12999/hls/4/index.m3u8?url=tvzb.com
+CCTV5,http://huangxin.quipor.cn:12999/hls/5/index.m3u8?url=tvzb.com
+CCTV6,http://huangxin.quipor.cn:12999/hls/6/index.m3u8?url=tvzb.com
+CCTV7,http://huangxin.quipor.cn:12999/hls/7/index.m3u8?url=tvzb.com
+CCTV8,http://huangxin.quipor.cn:12999/hls/8/index.m3u8?url=tvzb.com
+CCTV9,http://huangxin.quipor.cn:12999/hls/9/index.m3u8?url=tvzb.com
+CCTV10,http://huangxin.quipor.cn:12999/hls/10/index.m3u8?url=tvzb.com
+CCTV11,http://huangxin.quipor.cn:12999/hls/11/index.m3u8?url=tvzb.com
+CCTV12,http://huangxin.quipor.cn:12999/hls/12/index.m3u8?url=tvzb.com
+CCTV13,http://huangxin.quipor.cn:12999/hls/13/index.m3u8?url=tvzb.com
+CCTV14,http://huangxin.quipor.cn:12999/hls/14/index.m3u8?url=tvzb.com
+CCTV15,http://huangxin.quipor.cn:12999/hls/15/index.m3u8?url=tvzb.com
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -106,22 +121,6 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 
 
-CCTV1,http://huangxin.quipor.cn:12999/hls/1/index.m3u8?url=tvzb.com
-CCTV2,http://huangxin.quipor.cn:12999/hls/2/index.m3u8?url=tvzb.com
-CCTV3,http://huangxin.quipor.cn:12999/hls/3/index.m3u8?url=tvzb.com
-CCTV4,http://huangxin.quipor.cn:12999/hls/4/index.m3u8?url=tvzb.com
-CCTV5,http://huangxin.quipor.cn:12999/hls/5/index.m3u8?url=tvzb.com
-CCTV6,http://huangxin.quipor.cn:12999/hls/6/index.m3u8?url=tvzb.com
-CCTV7,http://huangxin.quipor.cn:12999/hls/7/index.m3u8?url=tvzb.com
-CCTV8,http://huangxin.quipor.cn:12999/hls/8/index.m3u8?url=tvzb.com
-CCTV9,http://huangxin.quipor.cn:12999/hls/9/index.m3u8?url=tvzb.com
-CCTV10,http://huangxin.quipor.cn:12999/hls/10/index.m3u8?url=tvzb.com
-CCTV11,http://huangxin.quipor.cn:12999/hls/11/index.m3u8?url=tvzb.com
-CCTV12,http://huangxin.quipor.cn:12999/hls/12/index.m3u8?url=tvzb.com
-CCTV13,http://huangxin.quipor.cn:12999/hls/13/index.m3u8?url=tvzb.com
-CCTV14,http://huangxin.quipor.cn:12999/hls/14/index.m3u8?url=tvzb.com
-CCTV15,http://huangxin.quipor.cn:12999/hls/15/index.m3u8?url=tvzb.com
-CGTN,http://huangxin.quipor.cn:12999/hls/16/index.m3u8?url=tvzb.com
 
 CETV1,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000135
 
