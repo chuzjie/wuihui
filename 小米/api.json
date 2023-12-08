@@ -156,10 +156,7 @@
              "ext": "./js/南瓜.js", 
              "changeable": 0 
          }, 
-  {"key":"csp_乐猪","name":"🎉┃乐猪┃追剧",
-     "jar": "./henit.jar",
-"type":3,"api":"csp_xBPQ",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪影视.json"},
+  
   
 
         {
@@ -224,10 +221,7 @@
 
   
 
-    {"key":"一起看 ","name":"🎉┃一起┃看","type":3,   
-    "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7", 
-
-  "api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},  
+      
 
   
   
