@@ -65,7 +65,16 @@
      }, 
   
      
-
+    {
+		"key":"疾风经典",
+		"name":"🎼音乐┃欣赏",
+		"type":3,
+		"api":"csp_Bili",
+		"searchable":0,
+		"quickSearch":0,
+		"filterable":1,
+		"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chuzjie/hsjifeng/main/lib/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"
+	},
    {
       "key": "csp_WoGG1",
       "name": "🦊┃玩偶┃4K",
@@ -77,6 +86,31 @@
       "quickSearch": 1,
       "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+auto|fhd|4k$$$https://wogg.xyz/"},
+
+
+  {
+			"key": "测试yingtan",
+			"name": "🌐影探┃4K",
+			"type": 3,
+			
+         //  "jar": "./custom_spider.jar;md5;60a9856a6deb7dcff27f3056626bbb5a",
+           
+           "jar": "https://gitee.com/huasjf/tvbox/raw/main/custom_spider.jar",
+     
+     
+     
+//"jar":"aHR0cHM6Ly9naXRlZS5jb20vaHVhc2pmL3R2Ym94L3Jhdy9tYWluL2N1c3RvbV9zcGlkZXIuamFy",
+                    
+     
+     
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://vipcms.lyyytv.cn/api.php/app/"
+		},
+         
+
 
  {
       "key": "49zy",
