@@ -110,7 +110,22 @@
          }, 
   
 
-
+      {
+			"key": "csp_Czsapp",
+			"name": "🌇┃厂长┃直连",
+            
+         "jar": "./2.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+     
+			"type": 3,
+			"api": "csp_Czsapp",
+            
+			"playerType": 2,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"ext": "https://www.czzy88.com/",
+			"filterable": 1
+		},   
 
 
  {
@@ -571,7 +586,147 @@
          
         
 
+    {
+      "key": "drpy_js_360影视",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/360影视.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/菜狗.js"
+    },
+    {
+      "key": "drpy_js_人人",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/人人.js"
+    },
+    {
+      "key": "drpy_js_低端",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/ddys.js"
+    },
+    {
+      "key": "drpy_js_农民",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/农民影视.js"
+    },
+    {
+      "key": "drpy_js_大豆",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/大豆.js"
+    },
+    {
+      "key": "drpy_js_九酷",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/九酷.js"
+    },
+    {
+      "key": "drpy_js_l0l",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/l0l.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/网飞.TV.js"
+    },
+    {
+      "key": "drpy_js_乐猪TV",
+       "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/乐猪TV.js"
+    },
+    {
+      "key": "drpy_js_六度TV",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/六度TV.js"
+    },
+    {
+      "key": "drpy_js_花猫TV",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/花猫TV.js"
+    },
+    {
+      "key": "drpy_js_TV云播",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/tva云播.js"
+    },
+    {
+      "key": "drpy_js_真不卡",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/真不卡.js"
+    },
+    {
+      "key": "drpy_js_新片场",
+      "name": "",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "ext": "./lib/新片场.js"
+    },   
           
+             
+                
+                   
+                      
+                         
+                            
+                                         
 
 
 
