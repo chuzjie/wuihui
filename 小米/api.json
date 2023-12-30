@@ -200,7 +200,7 @@
     
     { 
              "key": "csp_Nmys", 
-             "name": "💞┃疾风┃秒速", 
+             "name": "💞┃农民┃秒速", 
              "type": 3, 
              "api": "csp_Nmys", 
              "searchable": 1, 
@@ -268,7 +268,7 @@
 
   
   
- {"key":"农民影视1","name":"💞┃农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nongmin.json"}, 
+ 
   
      
   
