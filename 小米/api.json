@@ -69,15 +69,9 @@
    {
       "key": "csp_WoGG1",
       "name": "🦊┃玩偶┃4K",
-      "jar": "./uyv0t678c488189af47bb91dc108484d17431.jar;md5;aeb168169682631c93874c9bd8a97e74",
+       " jar": "https://gitee.com/huasjf/tvbox/raw/master/lunliuyv0t678c488189af47bb91dc108484d17431.jar;md5;aeb168169682631c93874c9bd8a97e74",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+auto|fhd|4k$$$https://wogg.xyz/"},
-
+         "api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 
          
          
