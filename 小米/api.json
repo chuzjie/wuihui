@@ -66,16 +66,23 @@
   
      
     
-      {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K","type":3,
+         {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K","type":3,
    
    
- "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;aeb168169682631c93874c9bd8a97e74",
+  "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;md5;6695b4fe705a1eedcae352abe5412640",
    
 //"jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;aeb168169682631c93874c9bd8a97e74",
    "api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
     
+  
+    
 
-         
+                         
+                   {"key":"csp_Ikanbot","name": "💋┃疾风┃爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"[排序:lz线路,kuaik]",
+   
+//"jar": "./lib/Hk.jar"
+   
+                    "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/Hk.jar"   
          
 { 
              "key": "南瓜2", 
