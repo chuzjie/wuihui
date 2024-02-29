@@ -76,7 +76,7 @@
     
   
     
-{"key":"drpy_js_优酷",
+{"key":"drpy_js优酷",
 "name":"🦜┃花生┃优酷",
 "searchable": 1, 
              "quickSearch": 1, 
@@ -85,12 +85,12 @@
  "api": "./drpy2.min.js", 
 "ext":"https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/%E5%B0%8F%E7%B1%B3/js/%E4%BC%98%E6%B8%B8%E9%85%B7%E6%9E%9C.js"},
 
-{"key":"drpy_js_秋霞","name":"🦚┃秋霞┃影影","type":3,
+{"key":"drpy_js秋霞","name":"🦚┃秋霞┃影影","type":3,
 "api":"./drpy2.min.js",
 //"ext":"./js/秋霞.js"
 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chuzjie/wuihui/main/%E5%B0%8F%E7%B1%B3/js/%E7%A7%8B%E9%9C%9E.js"
 }, 
-{"key":"drpy_js_菜狗","name":"🐶┃搜狗┃聚集","type":3,
+{"key":"drpy_js菜狗","name":"🐶┃搜狗┃聚集","type":3,
 "api":"./drpy2.min.js",
 //"ext":"./js/菜狗.js"
 "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chuzjie/wuihui/main/%E5%B0%8F%E7%B1%B3/js/%E8%8F%9C%E7%8B%97.js"
@@ -129,7 +129,7 @@
 		},   
 
 
-     {"key":"drpy_js_奇珍异兽",
+     {"key":"drpy_js_奇珍异1兽",
 "name":"🍭┃疾风┃新奇",
 "type":3,
 
