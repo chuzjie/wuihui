@@ -76,14 +76,27 @@
     
   
     
+{"key":"drpy_js_优酷",
+"name":"🦜┃花生┃优酷",
+"searchable": 1, 
+             "quickSearch": 1, 
+             "changeable": 1 ,
+"type":3,  
+ "api": "./drpy2.min.js", 
+"ext":"https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/%E5%B0%8F%E7%B1%B3/js/%E4%BC%98%E6%B8%B8%E9%85%B7%E6%9E%9C.js"},
 
+{"key":"drpy_js_秋霞","name":"🦚┃秋霞┃影影","type":3,
+"api":"./drpy2.min.js",
+//"ext":"./js/秋霞.js"
+"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chuzjie/wuihui/main/%E5%B0%8F%E7%B1%B3/js/%E7%A7%8B%E9%9C%9E.js"
+}, 
+{"key":"drpy_js_菜狗","name":"🐶┃搜狗┃聚集","type":3,
+"api":"./drpy2.min.js",
+//"ext":"./js/菜狗.js"
+"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chuzjie/wuihui/main/%E5%B0%8F%E7%B1%B3/js/%E8%8F%9C%E7%8B%97.js"
+},
                          
-                   {"key":"csp_Ikanbot","name": "💋┃疾风┃爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"[排序:lz线路,kuaik]",
-   
-//"jar": "./lib/Hk.jar"
-   
-                    "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/Hk.jar"   
-},         
+                   
 { 
              "key": "南瓜2", 
              "name": "💞┃南瓜┃稳定", 
@@ -95,7 +108,9 @@
              "changeable": 0 
          }, 
   
-
+   {"key":"drpy_js_百忙无果","name":"🍧┃花生┃新茫","type":3,
+"api":"https://gitee.com/huasjf/tvbox/raw/master/lib/apiv951drpy.min.js",
+"ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},       
       {
 			"key": "csp_Czsapp",
 			"name": "🌇┃厂长┃直连",
@@ -114,7 +129,18 @@
 		},   
 
 
- {
+     {"key":"drpy_js_奇珍异兽",
+"name":"🍭┃疾风┃新奇",
+"type":3,
+
+// "api":"./lib/apiv951drpy.min.js",
+
+//"ext":"./lib/奇珍异兽.js"
+
+"api":"https://gitee.com/huasjf/tvbox/raw/master/lib/apiv951drpy.min.js",
+
+"ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"   }, 
+{
       "key": "49zy",
       "name": "💞┃1080P┃专享",
       "type": 1,
@@ -189,28 +215,7 @@
         
   
 
-        {
-      "key": "csp_FreeOK",
-      "name": "💰️┃福影┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-          "ext": "https://jihulab.com/wuhui1/wuihui/-/raw/main/%E5%B0%8F%E7%B1%B3/json/%E7%A6%8F%E7%91%9E.json?ref_type=heads"
-     
-    },
-    
-    { 
-             "key": "csp_Nmys", 
-             "name": "💞┃农民┃秒速", 
-             "type": 3, 
-             "api": "csp_Nmys", 
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "changeable": 1, 
-             "ext": "./json/nmys.json" 
-         }, 
+        
 
       { 
                          "key": "Xinsj", 
@@ -262,10 +267,6 @@
         },
 
 
-{"key":"csp_biubiu_奈菲影院",
-"jar":"./xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d",
-"name":"🌈┃奈菲┃影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/奈菲影院.json"
-},  
 
       
 
@@ -305,15 +306,7 @@
    
   
   
-  { 
-             "key": "Kuaikan", 
-             "name": "💛┃快看┃影视", 
-             "type": 3, 
-             "api": "csp_Kuaikan", 
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "filterable": 1 
-         }, 
+  
        
    
 
