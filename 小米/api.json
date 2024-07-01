@@ -22,7 +22,7 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": "5月28日更新┃公众号 花生疾风┃首页",   
+               "name": "7月1日更新┃公众号 花生疾风┃首页",   
                "type": 3,   
                "api": "csp_DouDou",   
                "searchable": 0,   
@@ -51,17 +51,18 @@
 
 
       {"key": "meowtv_ngys","name": "🧡┃南瓜┃多线不能播放换线路",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt",
+      
 "type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
    
    
 //{"key":"原创","name":"☀原创┃无广┃神秘的哥哥们",   "jar": "https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/%E5%B0%8F%E7%B1%B3/fan.txt;md5;dd909349c70fe92e82470eba611b7094",   "jar": "./cc.jar",    "type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"🏝┃奥特┃直连",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},   
 {"key":"厂长2","name":"🌼┃厂长┃流畅","type":3,
 
- "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+ "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},    
         
              {"key":"天天","name":"💡┃天天┃影视",
@@ -75,7 +76,7 @@
                
 {"key":"玩偶2","name":"👽玩偶哥哥┃4K弹幕","type":3,
 
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 
 "api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
   //zz1231源
@@ -87,7 +88,7 @@
       "name": "👱┃酷看┃秒播",
       "type": 3,
       
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
       "api": "csp_Kkys",
       "timeout": 15,
       "searchable": 1,
@@ -97,7 +98,7 @@
          
 
 {"key":"萌米","name":"👀┃萌米┃App",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"Xinsj1","name":"👓┃视觉┃直连","jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
 "type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
@@ -288,7 +289,7 @@
   
 {"key":"zxzj","name":"💃在线┃外剧","type":3,"api":"csp_Zxzj",
 
-     "jar": "https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/%E5%B0%8F%E7%B1%B3/fan.txt;md5;dd909349c70fe92e82470eba611b7094",   
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 
    {  
@@ -438,16 +439,16 @@
           },  
   
 {"key":"企鹅体育xp","name":"🐧┃企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,
-  "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;6695b4fe705a1eedcae352abe5412640",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/qety.json"
 },
 
 {"key":"310js","name":"⚽┃310┃看球","type":3,"api":"https://gitee.com/huasjf/tvbox/raw/master/lib/apiv539drpy2.min.js",
-  "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;6695b4fe705a1eedcae352abe5412640",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/310%E7%9B%B4%E6%92%AD.js",
 "style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 
-{"key":"Jrsjs","name":"⚽┃ Jrs┃球迷","type": 3,  "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;6695b4fe705a1eedcae352abe5412640",
+{"key":"Jrsjs","name":"⚽┃ Jrs┃球迷","type": 3,"jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "api":"https://gitee.com/huasjf/tvbox/raw/master/lib/apiv539drpy2.min.js","ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
    
   {  
