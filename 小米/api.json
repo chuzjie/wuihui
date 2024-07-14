@@ -22,7 +22,7 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": "7月1日更新┃公众号 花生疾风┃首页",   
+               "name": "7月10日更新新增课堂教育 ┃公众号 花生疾风┃首页",   
                "type": 3,   
                "api": "csp_DouDou",   
                "searchable": 0,   
@@ -50,11 +50,10 @@
   
 
 
-      {"key": "meowtv_ngys","name": "🧡┃南瓜┃多线不能播放换线路",
-"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt",
-      
-"type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-   
+     // {"key": "meowtv_ngys","name": "🧡┃南瓜┃多线不能播放换线路","jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+  {"key":"追剧","name":"💭┃追剧┃App",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
+"type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"}, 
    
 //{"key":"原创","name":"☀原创┃无广┃神秘的哥哥们",   "jar": "https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/%E5%B0%8F%E7%B1%B3/fan.txt;md5;dd909349c70fe92e82470eba611b7094",   "jar": "./cc.jar",    "type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"🏝┃奥特┃直连",
@@ -74,7 +73,7 @@
 "playerType":1,
 "ext":"http://op.ysdqjs.cn"},       
                
-{"key":"玩偶2","name":"👽玩偶哥哥┃4K弹幕","type":3,
+{"key":"玩偶2","name":"👽┃玩偶哥哥┃4K推荐使用","type":3,
 
 "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 
@@ -116,8 +115,7 @@
                    // {"key": "meowtv_ngys1","name": "💞┃南瓜┃多线路不能播放换线路","jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;md5;6695b4fe705a1eedcae352abe5412640", "type": 3,"api": "csp_NanGua"     ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2},
       
 
-    // {"key":"源zl","name":"🌐┃疾风｜缘视","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f",
-    // "jar":"./huasheng.jar", "api":"csp_AppYsV2","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"}, 
+    // {"key":"源zl","name":"🌐┃疾风┃缘视","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f", "jar":"./huasheng.jar", "api":"csp_AppYsV2","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"}, 
 
   
  {"key":"drpy_js_优酷",
@@ -287,7 +285,7 @@
   
 
   
-{"key":"zxzj","name":"💃在线┃外剧","type":3,"api":"csp_Zxzj",
+{"key":"zxzj","name":"💃┃在线┃外剧","type":3,"api":"csp_Zxzj",
 
 "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
@@ -342,7 +340,7 @@
   
   {  
               "key": "YiSo",  
-              "name": "❤️易搜┃4K",  
+              "name": "❤️┃易搜┃4K",  
               "type": 3,  
               "api": "csp_YiSo",  
               "searchable": 1,  
@@ -353,7 +351,7 @@
           },  
           {  
               "key": "Zhaozy",  
-              "name": "❤️资源┃4K",  
+              "name": "❤️┃资源┃4K",  
               "type": 3,  
               "api": "csp_Zhaozy",  
               "searchable": 1,  
@@ -364,7 +362,7 @@
           },  
           {  
               "key": "PanSou",  
-              "name": "❤️盘搜┃4K",  
+              "name": "❤️┃盘搜┃4K",  
               "type": 3,  
               "api": "csp_PanSou",  
               "searchable": 1,  
@@ -375,7 +373,7 @@
           },  
           {  
               "key": "UpYun",  
-              "name": "❤️Up搜┃4K",  
+              "name": "❤️┃Up搜┃4K",  
               "type": 3,  
               "api": "csp_UpYun",  
               "searchable": 1,  
@@ -386,7 +384,7 @@
           },  
           {  
               "key": "PanSearch",  
-              "name": "💛盘Se┃4K",  
+              "name": "💛┃盘Se┃4K",  
               "type": 3,  
               "api": "csp_PanSearch",  
               "searchable": 1,  
@@ -397,7 +395,7 @@
   
           {  
               "key": "七夜",  
-              "name": "💛七夜┃4K",  
+              "name": "💛┃七夜┃4K",  
               "type": 3,  
               "api": "csp_Dovx",  
               "searchable": 1,  
@@ -425,7 +423,7 @@
 
   
  { "key": "dr_兔小贝",  
-              "name": "🙆儿童┃启蒙",  
+              "name": "🙆┃儿童┃启蒙",  
               "type": 3,  
               "style": {  
                   "type": "rect",  
@@ -472,7 +470,64 @@
 		"filterable":1,
 		"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chuzjie/hsjifeng/main/lib/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"
 	},
-  
+              {
+            "key": "课堂教育",
+            "name": "🔵┃课堂┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+           // "ext": "./lib/xx1.json"
+            
+            "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx1.json"
+        },
+        {
+            "key": "少儿教育",
+            "name": "🎓┃少儿┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+          //  "ext": "./lib/xx2.json"
+            "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx2.json"
+        },
+        {
+            "key": "小学教育",
+            "name": "🎓┃小学┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+          //  "ext": "./lib/xx3.json"
+            "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx3.json"
+        },
+        {
+            "key": "初中教育",
+            "name": "🎓┃初中┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+           // "ext": "./lib/xx4.json"
+            
+            "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx4.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "🎓┃高中┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+          //  "ext": "./lib/xx5.json"
+            "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx5.json"
+        },
+          
   {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/tok.txt"},  
   
    {"key":"drpy_js_榜单荐片a","name":"⭕┃影视源来源网络不要相信任何广告", 
