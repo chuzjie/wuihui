@@ -22,7 +22,7 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": "7月10日更新新增课堂教育 ┃公众号 花生疾风┃首页",   
+               "name": "8月3日更新新增课堂教育 ┃公众号 花生疾风┃首页",   
                "type": 3,   
                "api": "csp_DouDou",   
                "searchable": 0,   
@@ -30,7 +30,7 @@
                "filterable": 0   
            },  
             
-  {"key":"drpy_js_榜单荐片","name":"⭕公告┃源来源网络不用相信任何广告",  
+  {"key":"drpy_js_榜单荐片","name":"⭕公告┃源来源网络*不要相信任何广告",  
   "type":3,             "api": "csp_DouDou",   
                "searchable": 0,   
                "quickSearch": 0,   
@@ -48,23 +48,67 @@
                "quickSearch": 0,   
                "filterable": 0 },  
   
+         {  "key": "Xinsj", 
+ "name": "🐳┃视觉┃极速", 
+ "jar": "./spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+ "type": 3, 
+  "api": "csp_Xinsj", 
+ "searchable": 1, 
+ "quickSearch": 1, 
+ "changeable": 1, 
+ "ext": "https://www.6080yy3.com" 
+     }, 
+
+{"key":"南瓜","name":"♨️┃南瓜1┃App","type":3,
+"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fix24726.jar",
+"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 
 
-     // {"key": "meowtv_ngys","name": "🧡┃南瓜┃多线不能播放换线路","jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-  {"key":"追剧","name":"💭┃追剧┃App",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
-"type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"}, 
-   
+            { 
+             "key": "南瓜2", 
+             "name": "🏵️南瓜2┃APP", 
+"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fix24726.jar",
+             
+             "type": 3, 
+             "searchable": 1, 
+             "quickSearch": 1, 
+             "api": "./drpy2.min.js", 
+             "ext": "./js/南瓜.js", 
+             "changeable": 0 
+         }, 
+
+//{"key":"drpy_js_网飞.TV2","name":" 🎊┃影视┃网飞有广.TV","type":3,"api":"https://gitee.com/huasjf/tvbox/raw/master/lib/apiv19drpy2.min.js","ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E7%BD%91%E9%A3%9E.TV.js"},
+
+{"key":"繁荣","name":"⚜️┃繁荣┃App","type":3,"api":"csp_Frong",
+"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fix24726.jar",
+
+"playerType":2,"ext":"CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"},
+          {
+        "key": "VIP影视",
+        "name": "✨┃vip┃影视┃有文广勿信",
+        "type": 3,
+        "api": "csp_XPath",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "./json/VIP影视.json"},
+  {"key":"量子","name":"💞┃量子┃汇集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
+
+
+{"key":"非凡","name":"🌸┃非凡┃资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},        
 //{"key":"原创","name":"☀原创┃无广┃神秘的哥哥们",   "jar": "https://mirror.ghproxy.com/https://github.com/chuzjie/wuihui/raw/main/%E5%B0%8F%E7%B1%B3/fan.txt;md5;dd909349c70fe92e82470eba611b7094",   "jar": "./cc.jar",    "type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"🏝┃奥特┃直连",
 "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
-"type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},   
+"type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},  
+ 
 {"key":"厂长2","name":"🌼┃厂长┃流畅","type":3,
+
+
 
  "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},    
         
-             {"key":"天天","name":"💡┃天天┃影视",
+             {"key":"天天","name":"💡┃天天┃影视┃",
 //"jar":"./jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
 
 "jar":"https://gitee.com/huasjf/tvbox/raw/main/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
@@ -104,7 +148,7 @@
 
 
 
-   // {"key":"csp_MGTV","name":"🥭┃芒芒┃影视","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},             
+    {"key":"csp_MGTV","name":"🥭┃芒芒┃影视","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},             
                  
 
                  
@@ -115,7 +159,10 @@
                    // {"key": "meowtv_ngys1","name": "💞┃南瓜┃多线路不能播放换线路","jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;md5;6695b4fe705a1eedcae352abe5412640", "type": 3,"api": "csp_NanGua"     ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2},
       
 
-    // {"key":"源zl","name":"🌐┃疾风┃缘视","jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f", "jar":"./huasheng.jar", "api":"csp_AppYsV2","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"}, 
+     {"key":"源zl","name":"🌐┃疾风┃缘视 ",
+     "jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f", 
+     "jar":"./huasheng.jar", 
+    "api":"csp_AppYsV2","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"}, 
 
   
  {"key":"drpy_js_优酷",
@@ -163,7 +210,8 @@
 {"key": "csp_QQ1","name": "🐧┃腾讯┃影视手动选择解析播放","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout":15,"playerType":2,
 "jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
 }, 
-  {"key":"csp_XBPQTVB影视2","name":"☁️┃极速┃云播┃有广勿信",
+ 
+   {"key":"csp_XBPQTVB影视2","name":"☁️┃极速┃云播┃有广勿信",
   "type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   
   
@@ -261,7 +309,7 @@
             "name": "👻┃明明┃影视",
             "type": 3,
             "api": "csp_AppMr",
-            "searchable": 1,
+            "searchable": 2,
             "quickSearch": 1,
             "filterable": 1
         },
@@ -275,12 +323,9 @@
   
 
   
-{"key":"暴风资源","name":"💞┃暴风┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
-
-{"key":"量子","name":"💞┃量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
+{"key":"暴风资源","name":"🌪️┃暴风┃有广勿信","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","冒险片","记录片","综艺","动漫"]},
 
 
-{"key":"非凡","name":"💞┃非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 
   
 
@@ -617,7 +662,8 @@
      
      
 
-//{"name": "🅰️聚合",     "type": 3,    "url": "Demo"      },
+{
+"name": "🅰️聚合",     "type": 3,    "url": "Demo"      },
 
                  
                     {  "name": "🅱️聚合┃不能播放点击",    "type": 3,        "url": "Web"   },
@@ -628,7 +674,6 @@
 //{"name":"Json🆎并发","type":2,"url":"Parallel"},
 
     {   "name": "➡️手动换后面解析",   "type": 2,     "url": "Sequence"    },        
-
         
 
 
@@ -692,7 +737,7 @@
 {"name":"云解析","type":1,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
        {"name": "🌿流畅","type": 1,"url": "http://jx.meowtv.cn/?url="} ,
        
-      
+  {"name":"巧记","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},    
 {"name": "🌸花生","type": 1,"url": "https://jx.777jiexi.com/player/?url="},
     //{"name": "🌼疾风","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
     {"name": "🌺专享","type": 1,"url": "https://jx.jsonplayer.com/player/?url="},
