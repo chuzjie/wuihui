@@ -136,7 +136,7 @@
             "key": "蚂蚁视频",
             "name": "♻️┃疾风┃蚂蚁",
             "type": 3,   
-                  "jar": "./spiderqe.jar",
+                  "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderqe.jar",
             "api": "csp_Mayiys",
             "searchable": 1,
             "quickSearch": 1,
