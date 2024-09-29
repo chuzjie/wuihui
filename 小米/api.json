@@ -22,7 +22,7 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": "9月更新新增课堂教育 ┃公众号 花生疾风┃首页",   
+               "name": "9月更新玩偶4k ┃公众号 花生疾风┃首页",   
                "type": 3,   
                "api": "csp_DouDou",   
                "searchable": 0,   
@@ -47,10 +47,52 @@
                "searchable": 0,   
                "quickSearch": 0,   
                "filterable": 0 },  
+               
+            { 
+             "key": "南瓜21", 
+             "name": "🏵️┃南瓜s┃追剧", 
+             "type": 3, 
+             "searchable": 1, 
+             "quickSearch": 1, 
+             "api": "https://gitee.com/huasjf/tvbox/raw/main/drpy2.min.js", 
+             "ext": "https://gitee.com/huasjf/tvbox/raw/main/js/%E5%8D%97%E7%93%9C.js", 
+             "changeable": 0 
+         }, 
+
+               
+               
   
 {"key":"热播","name":"💥┃热播┃App",
 "jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
 "type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
+
+{"key":"csp_七新1","name":"🔆┃新影1|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+   // "jar":"./hccx2409.jar",
+    
+    "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar",
+    
+"ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"},
+
+
+//{"key":"csp_SP33","name":"🍇┃多多┃影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+             {"key":"天天","name":"💡┃天天┃影视┃",
+             
+     "jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f", 
+     "jar":"./huasheng.jar", 
+             
+"jar":"./jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
+"jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
+"jar":"https://gitee.com/huasjf/tvbox/raw/main/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
+"type":3,
+"api":"csp_TTian",
+"playerType":1,
+"ext":"http://op.ysdqjs.cn"},       
+{"key":"玩偶8","name":"👽┃玩偶哥更新┃4K弹幕┃uc盘 夸克盘 阿里盘扫码观看，夸克需要会员","type":3,
+//"jar":"./lib/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
+"jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
+
+"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+
 	{
 			"key": "热播库",
 			"name": "♥️┃热播┃BPQ",
@@ -90,6 +132,12 @@
 				//"二次跳转播放链接":"\"url\":\"&&\""}}
 			}
 		},
+		
+		
+
+		
+		
+		
  {"key":"快看2","name":"🖤┃快看2┃直连",
 "jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
  "type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
@@ -136,7 +184,7 @@
             "key": "蚂蚁视频",
             "name": "♻️┃疾风┃蚂蚁",
             "type": 3,   
-                  "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderqe.jar",
+                  "jar": "./spiderqe.jar",
             "api": "csp_Mayiys",
             "searchable": 1,
             "quickSearch": 1,
@@ -166,25 +214,14 @@
  
 {"key":"厂长2","name":"🌼┃厂长┃流畅","type":3,
 
-
-
- "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
-"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},    
-        
-             {"key":"天天","name":"💡┃天天┃影视┃",
-//"jar":"./jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
-
-"jar":"https://gitee.com/huasjf/tvbox/raw/main/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
-"type":3,
-"api":"csp_TTian",
-"playerType":1,
-"ext":"http://op.ysdqjs.cn"},       
-               
-{"key":"玩偶2","name":"👽┃玩偶哥哥┃4K推荐使用","type":3,
-
 "jar": "https://gitee.com/huasjf/tvbox/raw/main/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 
-"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+
+"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},    
+        
+
+               
+
   //zz1231源
   
 
@@ -606,11 +643,13 @@
      
      
 
-{
+              {  "name": "🅱️聚合┃不能播放点击",    "type": 3,        "url": "Web"   },
+              
+              {
 "name": "🅰️聚合",     "type": 3,    "url": "Demo"      },
 
                  
-                    {  "name": "🅱️聚合┃不能播放点击",    "type": 3,        "url": "Web"   },
+
                      
 
                      
