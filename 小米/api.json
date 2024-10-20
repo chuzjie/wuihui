@@ -22,7 +22,7 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": "9月更新玩偶4k ┃公众号 花生疾风┃首页",   
+               "name": "10月更新 ┃公众号 花生疾风┃首页",   
                "type": 3,   
                "api": "csp_DouDou",   
                "searchable": 0,   
@@ -59,12 +59,22 @@
              "changeable": 0 
          }, 
 
-               
+        {
+            "key":"荐片1",
+            "name":"🌹┃荐片┃追剧",
+            "type":3,
+            
+       "jar": "https://gitee.com/huasjf/tvbox/raw/main/json/xyq.jar",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "playerType":"1",
+            "api":"https://gitee.com/huasjf/tvbox/raw/master/lib/apiv147drpy1.min.js",
+            "ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/jp.js"
+        },
                
   
-{"key":"热播","name":"💥┃热播┃App",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
-"type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
+
 
 {"key":"csp_七新1","name":"🔆┃新影1|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
    // "jar":"./hccx2409.jar",
@@ -73,7 +83,14 @@
     
 "ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"},
 
-
+{"key":"csp_超前","name":"🌸┃超前┃影播|","type":3, 
+ //"jar": "./henit.jar",
+     "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar",
+"jar":" https://gitee.com/huasjf/tvbox/raw/main/henit.jar",
+"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":"./json/超前B站.json"
+"ext":"https://gitee.com/huasjf/tvbox/raw/main/json/%E8%B6%85%E5%89%8DB%E7%AB%99.json"
+},
 //{"key":"csp_SP33","name":"🍇┃多多┃影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
              {"key":"天天","name":"💡┃天天┃影视┃",
              
@@ -81,7 +98,7 @@
      "jar":"./huasheng.jar", 
              
 "jar":"./jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
+
 "jar":"https://gitee.com/huasjf/tvbox/raw/main/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
 "type":3,
 "api":"csp_TTian",
@@ -93,63 +110,23 @@
 
 "api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 
-	{
-			"key": "热播库",
-			"name": "♥️┃热播┃BPQ",
-			"type": 3,
-			"changeable": 1,
-			//"jar": "./lib/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
-				"主页url": "https://rebozj.pro",
-				"数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"副标题": "class=\"pic-text text-right\"><b>&&</span>",
-				"搜索模式": "1",
-				"嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-				"搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-				//"搜索数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-				//"搜索图片": "original=\"&&\"",
-				//"搜索标题": "title=\"&&\"",
-				//"搜索副标题": "class=\"pic-text text-right\"><b>&&</span>",
-				//"搜索链接": "href=\"&&\"",
-				"线路数组": "<h4 class=\"title&&/h4>",
-				"线路标题": ">&&<",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"影片类型": "类型：&&</p>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "display: none;\">&&</span>",
-				"分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
-				//"跳转解析":"默认$空#热播蓝光①$https://rebozj.pro/m3u8/?url=#热播蓝光②$https://rebozj.pro/m3u8/?url=",
-				"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
-				//"二次跳转播放链接": "https://rebozj.pro/m3u8/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
-				//"二次跳转播放链接":"\"url\":\"&&\""}}
-			}
-		},
+
 		
 		
 
 		
 		
 		
- {"key":"快看2","name":"🖤┃快看2┃直连",
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/fix24318.jar",
- "type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
+
 
 //{"key":"南瓜","name":"♨️┃南瓜1┃App","type":3,"jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/fix24726.jar","api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 
   {
 			"key": "348",
-			"name": "♨️┃348┃蓝光",
+			"name": "♨️┃348┃有叉广不要相信谨防受骗",
 			"type": 3,
 			"api": "csp_XBPQ",
-			//"jar": "./lib/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+	
 			"ext": {
 				"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
 				"站名": "348电影网",
@@ -196,15 +173,7 @@
      "jar":"./xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f", 
      "jar":"./huasheng.jar", 
     "api":"csp_AppYsV2","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"}, 
-          {
-        "key": "VIP影视",
-        "name": "✨┃vip┃影视┃有文广勿信",
-        "type": 3,
-        "api": "csp_XPath",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "./json/VIP影视.json"},
+
         
   {"key":"量子","name":"💞┃量子┃汇集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 
@@ -270,18 +239,7 @@
 
 
  
-  {
-      "key": "达达龟",
-      "name": "💞┃大贵┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": "1",
-      "ext": "./json/达达龟.json"
-    },
-    
+
   // 
 
  
@@ -340,7 +298,7 @@
     
                      { 
        "key": "csp_XBPQ_6V1", 
-       "name": "💞┃疾风┃4k专线1", 
+       "name": "💞┃疾风┃专线1", 
    "jar": "https://gitee.com/huasjf/tvbox/raw/main/uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a", 
        "type": 3, 
        "api": "csp_XBPQ", 
@@ -354,7 +312,7 @@
              
 	                   { 
        "key": "csp_XBPQ_6V2", 
-       "name": "💞┃疾风┃4k专线2", 
+       "name": "💞┃疾风┃专线2", 
    "jar": "https://gitee.com/huasjf/tvbox/raw/main/uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a", 
        "type": 3, 
        "api": "csp_XBPQ", 
