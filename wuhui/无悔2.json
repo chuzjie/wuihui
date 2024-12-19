@@ -191,7 +191,7 @@
             "type": 3,
                         "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/spiderd127.jar",
                             
-"jar": "./spiderd127.jar",
+//"jar": "./spiderd127.jar",
             "api": "csp_WebJP",
             "searchable": 1,
             "quickSearch": 1,
