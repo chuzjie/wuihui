@@ -1,9 +1,14 @@
 
   //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于商业及违法用途，仅供内测交流学习。]  
   {  
-        "spider": "https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",  
+        "spider": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",  
   
+
+
+//"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",  
+
+//"jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
 
     "lives": [
         {
@@ -22,25 +27,22 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": " 1219《公众号. 花生疾风》",   
-               "type": 3,   
-               "api": "csp_DouDou",   
-               "searchable": 0,   
-               "quickSearch": 0,   
-               "filterable": 0   
-           },  
+               "name": " 1222《公众号. 花生疾风》",   
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
             
   {"key":"drpy_js_榜单荐片","name":"⭕公告勿信广！",  
-  "type":3,             "api": "csp_DouDou",   
-               "searchable": 0,   
-               "quickSearch": 0,  "filterable": 0 },  
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
                
  {
             "key": "预告",
             "name": "Q群｜702322712",
             "type": 3,
-            
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
             "api": "csp_YGP",
             "searchable": 0
         },
@@ -50,65 +52,55 @@
             {
             "key": "本地",
             "name": "本地｜视频",
-            "type": 3,
-"jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
-            
+            "type": 3,  
            "api": "csp_LocalFile"
         },
    
    
-   {
-            "key": "文才",
-            "name": "💞┃花生┃文采",
-            "type": 3,
-                   // "jar": "./spiderd127jf.jar",
-                      
-                      "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
-      "type": 3,
-      "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-                 
-                              
-                                           
-                                                                     
-        {
-            "key": "洽洽视",
-            "name": "💞┃花生┃洽好",
-            "type": 3,
- // "jar": "./spiderd127.jar",  
-  
-   "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
-            "api": "csp_AppGZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-                       
-                 
-
-    
-
-             
-             
                   {
             "key": "瓜子影视",
             "name": "💞┃花生┃瓜子",
-            
-                                 "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
+   
+   
+   
+               {"key":"天天","name":"💞┃花生┃天天",
+"type":3,
+"api":"csp_TianTian",
+"playerType":1,
+"ext":"http://op.ysdqjs.cn"},   
+
+                       
+                 
+{
+            "key": "素白白",
+            "name": "💞┃疾风┃素白",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    
+
+       
+
         
 
-    
+         {
+            "key": "洽洽视",
+            "name": "💞┃花生┃洽好",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     
     
      {"key":"csp_七新21","name":"💞┃花生┃欣欣","type":3,
@@ -116,36 +108,25 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-   // "jar":"./hccx2409.jar",
-   
-                                  // "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
-    
-   "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar",
- 
- 
-    
+   "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar", 
 "ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
 },     
          
-         
-         
-         
-         
-       
-             {"key":"天天","name":"💞┃花生┃TT",
-  "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
+                {
+            "key": "金牌影视",
+            "name": "💞┃金牌┃好畅",
+            "type": 3,
 
-//"jar":"https://gitee.com/huasjf/tvbox/raw/main/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8",
-"type":3,
-"api":"csp_TianTian",
-"playerType":1,
-"ext":"http://op.ysdqjs.cn"},  
+            "api": "csp_WebJP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         
 
         {
             "key": "热播",
             "name": "💞┃疾风┃热播",
-                   // "jar": "./spiderd127.jar",
-                   "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
             "type": 3,
             "api": "csp_ReBo",
             "searchable": 1,
@@ -157,10 +138,7 @@
     
         {
             "key": "忍者影视",
-            "name": "💞┃疾风┃忍者",
-                    //"jar": "./spiderd127.jar",
-                   "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/spiderd127.jar",
-                    
+            "name": "💞┃疾风┃忍者",          
              "type": 3,
             "api": "csp_AppRZ",
             "searchable": 1,
@@ -168,14 +146,27 @@
             "filterable": 1
         },
     
+    {
+            "key": "小苹果",
+            "name": "💞┃苹果┃影视",
+            "type": 3,
+            
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    
+    
+
     
     
         {
             "key": "厂长资源",
-            "name": "💞┃疾风┃厂长",
+            "name": "💞┃疾风┃大厂",
                   //  "jar": "./spiderd127.jar",
              "type": 3,
-                   "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/spiderd127.jar",
+
             "api": "csp_Czzy",
             "searchable": 1,
             "quickSearch": 1,
@@ -183,34 +174,33 @@
         },
 
 
-    
-    
-                {
-            "key": "金牌影视",
-            "name": "💞┃金牌┃好畅",
+            {
+            "key": "真心影视",
+            "name": "🌹┃真心┃影剧",
             "type": 3,
-                        "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/spiderd127.jar",
-                            
-//"jar": "./spiderd127.jar",
-            "api": "csp_WebJP",
+            "api": "csp_WebGZ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        },        
+    
 
 
 
 
 
-   {"key":"csp_XBPQTVB影视2","name":"💞┃花生┃云播┃",
-  "type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  
-  "jar":"https://gitee.com/huasjf/tvbox/raw/main/xBPQ_1106.jar",
-  
- 
-  
-  "ext":"https://gitee.com/huasjf/tvbox/raw/main/json/tvbyun.json"
- },
+
+{
+            "key": "1905",
+            "name":"💞┃花生┃1905",
+            "type": 3,
+            
+  "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },    
    
 
   
@@ -229,7 +219,6 @@
       "key": "csp_SeedHub",
       "name": "💞┃花生┃kk",
       "type": 3,
-      
       "api": "csp_SeedHub",
       "playerType": 1,
       "searchable": 1,
@@ -264,8 +253,6 @@
       "key": "csp_Wogg",
       "name": "💞/玩偶/4Kk",
       "type": 3,
-              
-//"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
               
              "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
            //  "api": "csp_WoJF",
@@ -305,7 +292,17 @@
             }
               },
               
-              
+             {
+            "key": "机器人",
+            "name": "💞┃疾风┃机器人🤖 ",
+            "type": 3,
+
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+                     
               
               
         {"key":"源zl","name":"💞┃疾风┃缘视 ",
@@ -317,7 +314,7 @@
    {"key":"csp_七新1","name":"💞┃疾风┃新剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
    // "jar":"./hccx2409.jar",
     
-    "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar",
+   // "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar",
     
 "ext":"https://gitee.com/huasjf/tvbox/raw/master/lib/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"},   
 
@@ -358,6 +355,8 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":1,
+		
+	"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",  
 		"ext":"https://ghproxy.net/https://raw.githubusercontent.com/chuzjie/hsjifeng/main/lib/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"
 	},
               {
@@ -368,7 +367,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-           // "ext": "./lib/xx1.json"
+	"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",  
             
             "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx1.json"
         },
@@ -380,7 +379,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-          //  "ext": "./lib/xx2.json"
+	"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",  
             "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx2.json"
         },
         {
@@ -391,8 +390,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-          //  "ext": "./lib/xx3.json"
-            "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx3.json"
+        	"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",              "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx3.json"
         },
         {
             "key": "初中教育",
@@ -402,8 +400,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-           // "ext": "./lib/xx4.json"
-            
+          	"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",              
             "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx4.json"
         },
         {
@@ -414,7 +411,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-          //  "ext": "./lib/xx5.json"
+	"jar":"https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",  
             "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/xx5.json"
         },
           
@@ -425,8 +422,7 @@
             {
             "key": "搜索",
             "name": "搜索",
-                               "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/spiderd127.jar",
-                    "jar": "./spiderd127.jar",
+
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
