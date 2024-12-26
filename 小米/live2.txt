@@ -13,29 +13,8 @@
 原声原味【经典红歌联唱】60年代革命老歌串烧HD,https://vdse.bdstatic.com//04253bc9438f6369f1c8704ce2bf4bfd.mp4
 原声原味10首【经典红歌】大联唱HD,https://vdse.bdstatic.com//37f98cb7826b6866ec147e8cc75b0f7b.mp4
 原味10首【红太阳歌曲】经典红歌大联唱串烧FHD,https://vdse.bdstatic.com//37ecb707b0306ac98dfa36a0e5b36c17.mp4
-秘籍分享,#genre#
 
-✅花生日记,https://gitee.com/huasjf/tvbox/raw/main/1701581564629.mp4
-✅花生日记,.,https://gitee.com/huasjf/tvbox/raw/main/1701581564629.mp4
 
-✅购物省钱秘籍,https://gitee.com/huasjf/tvbox/raw/main/Hgfgx813lx08aGPrACqA01041200gkOk0E018.mp4
-✅购物省钱秘籍🍁,https://gitee.com/huasjf/tvbox/raw/main/Hgfgx813lx08aGPrACqA01041200gkOk0E018.mp4
-✅推荐软件,https://gitee.com/huasjf/tvbox/raw/main/9DN62xOXlx08aHghfE7S0104120063TA0E018.mp4
-推荐软件🍁,https://gitee.com/huasjf/tvbox/raw/main/9DN62xOXlx08aHghfE7S0104120063TA0E018.mp4
-✅领券方法,https://gitee.com/huasjf/tvbox/raw/main/mmexport1701581732393.mp4
-领券方法🍁,https://gitee.com/huasjf/tvbox/raw/main/mmexport1701581732393.mp4
-公告说明#genre#
-免费使用,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-公众号,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
-花生疾风,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-
-家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-换成支持ipv6,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-支持所有线路,http://159.75.85.63:35455/douyu/747764
-直播高清流畅,http://159.75.85.63:35455/douyu/96577
-更换享受超清,http://159.75.85.63:35455/douyu/3928
-
-推荐软件购物省钱,https://gitee.com/huasjf/tvbox/raw/main/9DN62xOXlx08aHghfE7S0104120063TA0E018.mp4
 
 4K频道,#genre#
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
@@ -234,7 +213,7 @@ BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000
 
 央视综合,#genre#
 
-CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
