@@ -14,7 +14,7 @@
         {
             "name": "tvlive",
             "type": 0,
-            "url": "http://b.mtw.so/5VzWhL",
+            "url": "https://git.acwing.com/wuhui/huas/-/raw/main/lib/newtv.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         ,
                      "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -26,7 +26,7 @@
         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": " 250329《公众号. 花生疾风》",   
+               "name": " 250611《公众号. 花生疾风》",   
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -55,19 +55,22 @@
            "api": "csp_LocalFile"
         },
    
-   	{
-			"key": "天天",
-			"name": "💞┃花生┃天天",
-			"type": 3,
-            
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",	
-            
-           // "jar": " https://gitee.com/huasjf/BOX/raw/master/lib/0319.jar",
-            
-
-			"api": "csp_AppRJGuard",
-			"ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-		},
+   	
+    {
+      "key": "天天",
+      	"name": "💞┃花生┃天天",
+                   "jar":"https://git.acwing.com/wuhui/huas/-/raw/main/lib/t0422.jar ", 
+      
+      "type": 3,
+        "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
+    },
+    
 		
 	{"key": "火狐","name": "💞┃花生┃极狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,
 	
@@ -94,16 +97,13 @@
         
                        
                  
-{
-            "key": "素白白",
-            "name": "💞┃疾风┃素白",
-            "type": 3,
-            "api": "csp_Subaibai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-    
+      {
+      "key": "瓜子app",
+      "name": "💞┃花生┃瓜子",
+      "type": 3,
+"api": "https://gitee.com/huasjf/BOX/raw/master/lib/apiv69drpy2.min.js",
+      "ext":" https://gitee.com/huasjf/BOX/raw/master/lib/guazi.js"
+    },
 
        
 
@@ -121,19 +121,14 @@
     
         {"key":"木耳","name":"💞┃花生┃木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
          
-	{
-			"key": "金牌",
-			"name": "💞┃花生┃金牌",
-			"type": 3,
-			
-		 // "jar": "https://git.acwing.com/wuhui/huas/-/raw/main/lib/0319.jar",
-  
-  "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/0319.jar",
-  
-  //"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",
-			
-			"api": "csp_JpysGuard"
-		},
+    {
+      "key": "金牌影视",
+      "name": "💞┃花生┃金牌",
+      "type": 3,
+                   "jar":"https://git.acwing.com/wuhui/huas/-/raw/main/lib/t0422.jar ", 
+      "api": "csp_Jpys"
+    },
+
         
         
           {"key":"csp_DiDuan","name":"💞┃疾风┃低端","type":3,"api":"csp_Ddys",
@@ -141,27 +136,7 @@
  // "jar": "  https://git.acwing.com/wuhui/huas/-/raw/main/lib/1694435460.txt",
    "click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},    
 
-        {
-            "key": "热播",
-            "name": "💞┃疾风┃热播",
-            "type": 3,
-            "api": "csp_ReBo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": 
-     ""  },
-    
-    
-        {
-            "key": "忍者影视",
-            "name": "💞┃疾风┃忍者",          
-             "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
     
     {
             "key": "小苹果",
@@ -178,17 +153,7 @@
 
     
     
-        {
-            "key": "厂长资源",
-            "name": "💞┃疾风┃大厂",
-                  //  "jar": "./spiderd127.jar",
-             "type": 3,
 
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 
 
             {
@@ -339,9 +304,7 @@
                      
               
               
-        {"key":"源zl","name":"💞┃疾风┃缘视 ",
-        "jar":"https://gitee.com/huasjf/tvbox/raw/master/lib/hccx2409.jar",
-    "api":"csp_AppYsV2","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"}, 
+
    
     {
       "key": "人影",
@@ -556,14 +519,7 @@
 
 {"key":"暴风资源","name":"❤️┃疾风┃暴风有广勿信","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","冒险片","记录片","综艺","动漫"]},
 
-      {
-      "key": "影图",
-      "name": "❤️┃疾风┃影图有广勿信",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+
 
   {"key":"量子","name":"💞┃量子┃汇集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
   
