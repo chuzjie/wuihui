@@ -30,7 +30,7 @@
 	         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": " 💥┃豆瓣┃26更新 花生疾风",   
+               "name": " 💥┃豆瓣┃26s更新 花生疾风",   
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -92,23 +92,16 @@
       "ext": "https://static.1405241.xyz/tvyunbo.json"
     },
     
-       {
-      "key": "洽洽视",
-      "name": "💞花生洽好",
+               {
+      "key": "瓜子",
+      "name": "🌸瓜子线路",
       "type": 3,
-"jar": "https://static.1405241.xyz/spiderd127.jar;md5;669a600b679ad7274f04c576caefdecc",
-      "api": "csp_AppGZ",
+      "api": "csp_Gz360",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 5000,
-"connectTimeout": 3000,
-"retryCount": 1,
-   "deviceId": "",
-                "version": "",
-                "ua": "okhttp/3.10.0"
+      "quickSearch": 1,
+      "filterable": 1
+    },
             
-     },
     
                    {
       "key": "天天1",
@@ -298,14 +291,7 @@
         
 
 
-      {
-      "key": "瓜子app",
-      "name": "💞瓜子极限",
-      "type": 3,
-"api": "https://static.1405241.xyz/apiv499apiv477apiv69drpy2.min.js",
-      "ext":"https://static.1405241.xyz/guazi.js"
-    },
-     
+      
      
        {
       "key": "nangua",
