@@ -12,10 +12,7 @@
             "url": "https://poyyjt.1405241.xyz",
             "name": "🚀💥┃精简线路"
         },
-        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀💥┃王二小线路"
-        }, 
+        
         {
             "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
             "name": "🚀💥┃短剧专线"
@@ -28,14 +25,7 @@
             "url": "http://fty.888484.xyz/tv",
             "name": "🚀💥┃饭太硬备用"
         }, 
-        {
-            "url": "http://hello.肥猫.net",
-            "name": "🚀💥┃肥猫备用"
-        },   
-        {
-            "url": "http://www.小不点.com",
-            "name": "🚀💥┃摸鱼备用"
-        },              
+        
         {
             "url": "https://d.kstore.dev/download/9280/wex.json",
             "name": "🚀💥┃王二小备用"
