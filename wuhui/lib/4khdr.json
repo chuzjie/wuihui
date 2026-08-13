@@ -20,7 +20,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": " 💥┃精简┃老设备体验",
+            "name": " 💥┃精简2┃老设备体验",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -51,6 +51,18 @@
                 "ratio": 3.8
             }
         },
+        
+        {
+            "key": "1905",
+            "name": "💞1905线路",
+            "type": 3,
+            "jar": "https://static.1405241.xyz/spiderd127.jar;md5;669a600b679ad7274f04c576caefdecc",
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        
         {
             "key": "柠檬",
             "name": "💞柠檬极速",
@@ -82,27 +94,8 @@
             "jar": "https://static.1405241.xyz/ningmeng.jar;md5;939ffbc2941a28ca533f2653fa4b449e",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
-        {
-            "key": "haina",
-            "name": "🔥海纳有草勿信",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://static.1405241.xyz/海纳TV.json"
-        },
-        {
-            "key": "卧龙",
-            "name": "❤️花生卧龙",
-            "type": 1,
-            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧", "香港剧", "恐怖片", "动作片"
-            ]
-        },
+
+
         {
             "key": "光速",
             "name": "❤️花生光速",
@@ -187,40 +180,9 @@
             "filterable": 0,
             "ext": "https://static.1405241.xyz/狐狸君.json"
         },
-        {
-            "key": "移动网盘",
-            "name": "💥移冻4K",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "jar": "https://static.1405241.xyz/%E7%A7%BB%E5%86%BB.jar;md5;f2973db01b3ac8dd9d9cd931e384935e",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "sp": "Panta"
-            },
-            "timeout": 25
-        },
-        {
-            "key": "nangua",
-            "name": "💞南瓜极速",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "jar": "https://static.1405241.xyz/ningmeng.jar;md5;939ffbc2941a28ca533f2653fa4b449e",
-            "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-        },
-        {
-            "key": "1905",
-            "name": "💞1905线路",
-            "type": 3,
-            "jar": "https://static.1405241.xyz/spiderd127.jar;md5;669a600b679ad7274f04c576caefdecc",
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+
+
+
         {
             "key": "暴風",
             "name": "🌀暴风线路",
@@ -253,50 +215,9 @@
                 "内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"
             ]
         },
-        {
-            "key": "疾风经典",
-            "name": "🎧音乐欣赏",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://static.1405241.xyz/spiderwuai.jar;md5;b52904b82b66ffc8e1c5a78e6f749ef2",
-            "ext": "https://static.1405241.xyz/吾爱经典.json"
-        },
-        {
-            "key": "演唱",
-            "name": "💎演唱会场",
-            "jar": "https://static.1405241.xyz/spiderwuai.jar;md5;b52904b82b66ffc8e1c5a78e6f749ef2",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://static.1405241.xyz/爱演唱会.json"
-        },
-        {
-            "key": "相声小品",
-            "name": "🌸相声小品",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "https://static.1405241.xyz/spiderwuai.jar;md5;b52904b82b66ffc8e1c5a78e6f749ef2",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://static.1405241.xyz/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
-        },
-        {
-            "key": "戏曲",
-            "name": "🌸戏曲大全",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "https://static.1405241.xyz/spiderwuai.jar;md5;b52904b82b66ffc8e1c5a78e6f749ef2",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://static.1405241.xyz/wa戏曲.json"
-        },
+
+
+
         {
             "key": "dr_兔小贝",
             "name": "🙆儿童启蒙",
