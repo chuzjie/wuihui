@@ -30,7 +30,7 @@
 	         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": " 💥热门预览",   
+               "name": " 💥公众号：花生疾风",   
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -56,13 +56,16 @@
                 "ratio": 3.8
             }
         },
-        
-
+                {
+            "key": "暴風",
+            "name": "",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
        
           
-
-
-
 		
             {
             "key": "搜索",
@@ -78,8 +81,7 @@
                 "danmu": true
             }
         },
-    
-
+    {"key":"闪电资源","name":"","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	
           {  
               "key": "push_agenat",  
