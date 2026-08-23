@@ -1,48 +1,43 @@
-
-  //仅供测试
-  
-
-  
-  
-    {
-   "spider": "https://static.1405241.xyz/tn0610.jar;md5;3f80ef8713c6f1a209c183e7afd7a5f9",
-  
+{
+    "spider": "https://static.1405241.xyz/tn0610.jar;md5;3f80ef8713c6f1a209c183e7afd7a5f9",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "warningText": "资源来自网络，无盈利纯分享！[所有内容仅供学习使用]",
-
-   "timeout": 5000,
+    "timeout": 5000,
     "connectTimeout": 3000,
     "retryCount": 1,
     "deviceId": "",
     "version": "",
     "ua": "okhttp/3.10.0",
-    
     "lives": [
         {
             "name": "tvlive",
             "type": 0,
             "url": "https://static.1405241.xyz/new.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        ,
-                     "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
-
-	         "sites": [   
-                    {   
-               "key": "豆豆",   
-               "name": " 💥公众号：花生疾风",   
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+    "sites": [
+        {
+            "key": "豆豆",
+            "name": " 💥仅供测试，自行配置最新线路",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
-      
-           {
+        {
+            "key": "drpy_js_榜单荐片",
+            "name": "💞公众号：花生疾风",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
             "key": "本地",
             "name": "💞本地视频",
-            "type": 3,  
-           "api": "csp_LocalFile"
-              },
-
+            "type": 3,
+            "api": "csp_LocalFile"
+        },
         {
             "key": "FirstAid",
             "name": "💞急救知识 ",
@@ -56,21 +51,43 @@
                 "ratio": 3.8
             }
         },
-                {
-            "key": "暴風",
-            "name": "",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
+        
+
+
+        {
+            "key": "dr_兔小贝",
+            "name": "🙆儿童启蒙",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "api": "https://static.1405241.xyz/apiv1231apiv1117apiv491drpy2.min.js",
+            "ext": "https://static.1405241.xyz/兔小贝.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
         },
-       
-          
-		
-            {
+      
+             {
+            "key": "量子",
+            "name": "仅供测试",
+            "jar": "https://static.1405241.xyz/spider.jar",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片", "战争片", "恐怖片", "喜剧片", "爱情片", "科幻片", "剧情片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "港台动漫"
+            ]
+        },
+
+        
+
+        {
             "key": "搜索",
             "name": "搜索",
-
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -81,231 +98,66 @@
                 "danmu": true
             }
         },
-    {"key":"闪电资源","name":"","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-	
-          {  
-              "key": "push_agenat",  
-              "name": "💞自行配置地址测试<",  
-              "type": 3,  
-              "api": "csp_Push",  
-              "searchable": 1,  
-              "quickSearch": 1,  
-              "filterable": 1,  
-              "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"  
-          }  
-      ],  
-
-
-
-    "parses": [
-       
-           {"name": "通用",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
+      
+      
+      
         {
-            "name": "Web聚合",
+            "key": "push_agenat",
+            "name": "💞源来源网仅供测试勿信广草<",
             "type": 3,
-            "url": "Web"
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
-            "name": "Json聚合",
+            "key": "push_ageznat",
+            "name": "💕禁未满18岁测试，请24小时删除<",
             "type": 3,
-            "url": "Demo"
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
-            "name": "xmflv",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
+            "key": "push_agent",
+            "name": "📽推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/tok.txt"
         },
         {
-            "name": "freejson",
-            "type": 0,
-            "url": "https://h5.freejson.xyz/player/?url="
+            "key": "drpy_js_榜单荐片b1",
+            "name": "⭕仅供测试请24小时删除",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
-            "name": "8090",
-            "type": 0,
-            "url": "https://www.8090g.cn/?url="
-        },
-        {
-            "name": "夜幕",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
-        },
-        {
-            "name": "parwix稳定",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url="
-        },
-        {
-            "name": "365",
-            "type": 0,
-            "url": "https://chaxun.truechat365.com/?url="
-        },
-        {
-            "name": "EXO",
-            "type": 0,
-            "url": "https://rx.69mj.com/?url="
+            "key": "push_agenat2",
+            "name": "💞仅供测试<",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         }
     ],
-	"rules": [{
-			"name": "♻️非",
-			"hosts": [
-				"lz",
-				"vip.lz",
-                
-                             " www.348z.com",
-				"v.cdnlz",
-				"hd.lz",
-				"ffzy",
-				"vip.ffzy",
-				"hd.ffzy"
-			],
-			"regex": [
-				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️索",
-			"hosts": [
-				"suonizy",
-				"qrssv.com"
-			],
-			"regex": [
-				"15.1666",
-				"15.2666"
-			]
-		},
-		{
-			"name": "♻️乐",
-			"hosts": [
-				"leshiyun"
-			],
-			"regex": [
-				"15.92"
-			]
-		},
-		{
-			"name": "♻️质",
-			"hosts": [
-				"yzzy",
-				"playback"
-			],
-			"regex": [
-				"16.63",
-				"18.66",
-				"17.66",
-				"19.13"
-			]
-		},
-		{
-			"name": "♻️看",
-			"hosts": [
-				"kuaikan",
-				"vip.kuaikan"
-			],
-			"regex": [
-				"15.32",
-				"15.231",
-				"18.066"
-			]
-		},
-		{
-			"name": "♻️360",
-			"hosts": [
-				"lyhuicheng"
-			],
-			"regex": [
-				"#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
-				"#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️牌",
-			"hosts": [
-				"askzycdn",
-				"jkunbf",
-                
-              " www.348z.com",
-				"bfikuncdn",
-				"bfaskcdn"
-			],
-			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️风",
-			"hosts": [
-				"bfengbf.com",
-				"bfzy",
-				"c1"
-			],
-			"regex": [
-				"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
-				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️民",
-			"hosts": [
-				"toutiaovod.com"
-			],
-			"regex": [
-				"video/tos/cn"
-			]
-		},
-		{
-			"name": "♻️山",
-			"hosts": [
-				"huoshan.com"
-			],
-			"regex": [
-				"item_id="
-			]
-		},
-		{
-			"name": "♻️音",
-			"hosts": [
-				"douyin.com"
-			],
-			"regex": [
-				"is_play_url="
-			]
-		},
-		{
-			"name": "♻️磁",
-			"hosts": [
-				"magnet"
-			],
-			"regex": [
-				" 新",
-				"直播",
-				" 新"
-			]
-		},
-		{
-			"name": "♻️饭击",
-			"hosts": [
-				"dadagui",
-				"freeok",
-				"dadagui"
-			],
-			"script": [
-				"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
-			]
-		},
-		{
-			"name": "♻️毛击",
-			"hosts": [
-				"www.maolvys.com"
-			],
-			"script": [
-				"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-			]
-		}
-	]
+    "parses": [
+        {
+            "name": "通用",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+    ],
+    "rules": []
 }
