@@ -30,7 +30,7 @@
 	         "sites": [   
                     {   
                "key": "豆豆",   
-               "name": " 💥┃豆瓣┃26s更新 花生疾风",   
+               "name": " 💥┃0828┃更新 花生疾风",   
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -168,9 +168,6 @@
         
 
 
-      
-     
-       
     
       
  {
@@ -281,17 +278,15 @@
 "jar":"https://static.1405241.xyz/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 
+{
+"key":"腾弹",
+"name":"👑腾滕",
 
-
-
-
-        
-
-
-
-              
-
-                     
+"type":3,
+                   "api": "https://static.1405241.xyz/apiv1109apiv491drpy2.min.js",  
+"changeable":1,
+"ext":"https://static.1405241.xyz//腾腾.js"
+},
 
 
 
@@ -318,7 +313,18 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     
-                 { 
+    {
+            "key": "机器人",
+            "name": "💞爱看线路",
+            "type": 3,
+
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+                     { 
        "key": "光速", 
        "name": "❤️光速线路", 
        "type": 1, 
@@ -348,15 +354,101 @@
          "综艺"
        ] 
      },
-          
-           {
-			"key": "暴風",
-			"name": "🌀暴风线路",
-			"type": 1,
-			"api": "https://bfzyapi.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1
-		},
+          {
+"key":"Dygang",
+"name":"🧲电影港『边下边播』",
+       "jar": "https://static.1405241.xyz/ningmeng.jar;md5;939ffbc2941a28ca533f2653fa4b449e",
+"type":3,
+"searchable":1,
+"changeable":1,
+"api":"csp_Dygang"
+},
+
+{"key":"csp_New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1},     
+
+ {"name":"💥盒马短剧","key":"Hema",
+ "jar": "https://static.1405241.xyz/bbf42fe09621015de1fef36dac2e4e80.png",
+ "type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},  
+ 
+{"name":"💥星星短剧","key":"Xydj",
+"jar": "https://static.1405241.xyz/bbf42fe09621015de1fef36dac2e4e80.png",
+"type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
+                {
+            "key": "量子11",
+            "name": "🍁短剧",
+            "jar": "https://static.1405241.xyz/spider.jar",
+            "api": "https://cj.lziapi.com/api.php/provide/vod//from/lzm3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧", "AI漫剧", "足球", "篮球🏀", "网球", "电影解说",  "港台动漫"
+            ]
+        },
+        
+        
+       { 
+       "key": "新浪", 
+       "name": "❤️新新线路", 
+       "type": 1, 
+       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
+       "searchable": 1, 
+       "quickSearch": 1, 
+       "playUrl": "", 
+       "categories": [ 
+        "大陆剧", 
+         "动作片", 
+         "动漫", 
+         "综艺", 
+                 "古装仙侠",
+                         "现代都市",
+                                 "穿越年代",
+                                         "言情总裁",
+         "反转爽剧",
+         "重生民国",
+                 "动作片",
+                         "AI漫剧"
+                 
+       ] 
+     },
+     
+   
+{
+    "key": "暴風",
+    "name": "🌀爆发专线",
+               "jar": "https://static.1405241.xyz/spider.jar",
+    "type": 1,
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "searchable": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "categories": [
+        "国产剧",
+        "大陆综艺",
+        "动作片",
+        "国产动漫",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "记录片",
+        "海外剧",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "足球",
+        "影视解说"
+    ]
+},
 
        {
       "key": "索尼",
@@ -446,6 +538,17 @@
 		},
               
 
+{
+"key":"csp_XYQHiker_戏曲多1多",
+  "jar": "https://static.1405241.xyz/spiderd127.jar;md5;669a600b679ad7274f04c576caefdecc",
+"name":" ‍🔥戏曲多多",
+"type":3,
+"api":"csp_XYQHiker",
+"searchable":0,
+"changeable":1,
+"filterable":1,
+"ext":"https://static.1405241.xyz/戏曲多多.json"
+},
 
     
  
