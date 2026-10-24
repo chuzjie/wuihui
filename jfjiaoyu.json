@@ -1,33 +1,28 @@
 
- {
- 
-       "spider": "https://gitee.com/huasjf/jf/raw/main/lib/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
- "wallpaper":"https://tuapi.eees.cc/api.php?category=meinv&type=302",
-
- "wallpaper":"https://tuapi.eees.cc/api.php?category=meinv&type=302",
-
-        "lives": [
+{
+    "spider": "https://static.1405241.xyz/tn0610.jar",
+	"wallpaper": "https://饭的动态壁纸.xxooo.cf/",
+    "warningText": "资源来自网络，无盈利纯分享！[所有内容仅供学习使用]",
+    "ua": "okhttp/3.10.0",
+    "lives": [
         {
             "name": "tvlive",
             "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/chuzjie/wuihui/main/new.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        ,
-                     "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
-
+            "url": "https://static.1405241.xyz/少儿频道.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
      
      
      
             "sites": [  
-
-    
-             {
+            {
             "key": "宝宝趣学",
             "name": "👶宝宝趣学",
             "type": 3,
             
-                                      "jar": "https://gitee.com/huasjf/poyy/raw/master/lib/jfm1214.jar",
+                                      "jar": "https://static.1405241.xyz/jfm12141183.jar",
             "api": "csp_Bili2",
             "searchable": 1,
             "quickSearch": 0,
@@ -37,12 +32,10 @@
                 "ratio": 1.733
             },
       "searchable": 0,
-      "ext": {"json":"https://gh.xxooo.cf/https://raw.githubusercontent.com/chuzjie/hsjifeng/main/lib/video_data.json"}
+      "ext": {"json":"https://static.1405241.xyz/video_data.json"}
         },
-      
 
- 
- { "key": "dr_兔小贝",  
+       { "key": "dr_兔小贝",  
               "name": "🙆儿童启蒙",  
               "type": 3,  
               "style": {  
@@ -55,9 +48,48 @@
               "quickSearch": 0,  
               "changeable": 0  
           },     
-
+   
   
+   
+      {"key": "dr_童趣","name": "🧗儿童童趣","type": 3,
+"api": "https://static.1405241.xyz/apiv1109apiv491drpy2.min.js",  "searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": "https://static.1405241.xyz/tongqvjs.js"},
+    
+ 
 
+
+    {"key":"csp_XYQHiker_兔小贝2",
+ "name":"🌸小贝儿歌",
+ 
+  "jar": "https://static.1405241.xyz/spiderd127.jar;md5;669a600b679ad7274f04c576caefdecc",
+ "type":3,
+ "api":"csp_XYQHiker",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://static.1405241.xyz/兔小贝2.json"
+ }, 
+              
+{
+            "key": "本地",
+            "name": "💞本地视频",
+            "type": 3,  
+           "api": "csp_LocalFile"
+              },
+
+        {
+            "key": "FirstAid",
+            "name": "💞急救知识 ",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+        },
 
   {
       "key": " py_中国文化",
@@ -80,201 +112,5 @@
               "filterable": 1,  
               "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"  
           }  
-      ],  
-
-
-
-    	
-
-		"parses": [{
-			"name": "Json聚合",
-			"type": 3,
-			"url": "Demo"
-		},
-		{
-			"name": "聚合",
-			"type": 3,
-			"url": "视"
-		},
-		{
-			"name": "用",
-			"type": 1,
-			"url": ""
-		},
-		{
-			"name": "8090g",
-			"type": 0,
-			"url": ""
-		},
-		{
-			"name": "米",
-			"type": 0,
-			"url": ""
-		},
-		{
-			"name": "幕",
-			"type": 0,
-			"url": ""
-		}
-	],
-
-	"rules": [{
-			"name": "♻️非",
-			"hosts": [
-				"lz",
-				"vip.lz",
-                
-                             " www.348z.com",
-				"v.cdnlz",
-				"hd.lz",
-				"ffzy",
-				"vip.ffzy",
-				"hd.ffzy"
-			],
-			"regex": [
-				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️索",
-			"hosts": [
-				"suonizy",
-				"qrssv.com"
-			],
-			"regex": [
-				"15.1666",
-				"15.2666"
-			]
-		},
-		{
-			"name": "♻️乐",
-			"hosts": [
-				"leshiyun"
-			],
-			"regex": [
-				"15.92"
-			]
-		},
-		{
-			"name": "♻️质",
-			"hosts": [
-				"yzzy",
-				"playback"
-			],
-			"regex": [
-				"16.63",
-				"18.66",
-				"17.66",
-				"19.13"
-			]
-		},
-		{
-			"name": "♻️看",
-			"hosts": [
-				"kuaikan",
-				"vip.kuaikan"
-			],
-			"regex": [
-				"15.32",
-				"15.231",
-				"18.066"
-			]
-		},
-		{
-			"name": "♻️360",
-			"hosts": [
-				"lyhuicheng"
-			],
-			"regex": [
-				"#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
-				"#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️牌",
-			"hosts": [
-				"askzycdn",
-				"jkunbf",
-                
-              " www.348z.com",
-				"bfikuncdn",
-				"bfaskcdn"
-			],
-			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-				"#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️风",
-			"hosts": [
-				"bfengbf.com",
-				"bfzy",
-				"c1"
-			],
-			"regex": [
-				"#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
-				"#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-		},
-		{
-			"name": "♻️民",
-			"hosts": [
-				"toutiaovod.com"
-			],
-			"regex": [
-				"video/tos/cn"
-			]
-		},
-		{
-			"name": "♻️山",
-			"hosts": [
-				"huoshan.com"
-			],
-			"regex": [
-				"item_id="
-			]
-		},
-		{
-			"name": "♻️音",
-			"hosts": [
-				"douyin.com"
-			],
-			"regex": [
-				"is_play_url="
-			]
-		},
-		{
-			"name": "♻️磁",
-			"hosts": [
-				"magnet"
-			],
-			"regex": [
-				" 新",
-				"直播",
-				" 新"
-			]
-		},
-		{
-			"name": "♻️饭击",
-			"hosts": [
-				"dadagui",
-				"freeok",
-				"dadagui"
-			],
-			"script": [
-				"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
-			]
-		},
-		{
-			"name": "♻️毛击",
-			"hosts": [
-				"www.maolvys.com"
-			],
-			"script": [
-				"document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-			]
-		}
-	]
+      ]
 }
